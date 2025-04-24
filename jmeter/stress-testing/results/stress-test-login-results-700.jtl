@@ -1,0 +1,937 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1744478152438,3,Visit Website,200,OK,Thread Group 1-1,text,true,,2561,149,5,5,http://localhost:3000/,3,0,0
+1744478152438,8,Visit Website,200,OK,Thread Group 1-3,text,true,,2561,149,9,9,http://localhost:3000/,8,0,1
+1744478152438,10,Visit Website,200,OK,Thread Group 1-2,text,true,,2561,149,12,12,http://localhost:3000/,10,0,1
+1744478152440,11,Visit Website,200,OK,Thread Group 1-4,text,true,,2561,149,14,14,http://localhost:3000/,11,0,1
+1744478152441,12,Visit Website,200,OK,Thread Group 1-5,text,true,,2561,149,17,17,http://localhost:3000/,12,0,0
+1744478152442,31,Visit Website,200,OK,Thread Group 1-6,text,true,,2561,149,36,36,http://localhost:3000/,31,0,1
+1744478152442,33,Visit Website,200,OK,Thread Group 1-7,text,true,,2561,149,38,38,http://localhost:3000/,33,0,1
+1744478152444,32,Visit Website,200,OK,Thread Group 1-8,text,true,,2561,149,39,39,http://localhost:3000/,32,0,1
+1744478152446,31,Visit Website,200,OK,Thread Group 1-9,text,true,,2561,149,41,41,http://localhost:3000/,31,0,0
+1744478152447,32,Visit Website,200,OK,Thread Group 1-10,text,true,,2561,149,43,43,http://localhost:3000/,32,0,1
+1744478152447,33,Visit Website,200,OK,Thread Group 1-11,text,true,,2561,149,44,44,http://localhost:3000/,33,0,1
+1744478152448,33,Visit Website,200,OK,Thread Group 1-12,text,true,,2561,149,46,46,http://localhost:3000/,33,0,1
+1744478152451,32,Visit Website,200,OK,Thread Group 1-13,text,true,,2561,149,47,47,http://localhost:3000/,32,0,1
+1744478152451,33,Visit Website,200,OK,Thread Group 1-14,text,true,,2561,149,48,48,http://localhost:3000/,33,0,1
+1744478152453,33,Visit Website,200,OK,Thread Group 1-17,text,true,,2561,149,49,49,http://localhost:3000/,33,0,1
+1744478152453,34,Visit Website,200,OK,Thread Group 1-16,text,true,,2561,149,52,52,http://localhost:3000/,34,0,1
+1744478152453,38,Visit Website,200,OK,Thread Group 1-15,text,true,,2561,149,53,53,http://localhost:3000/,38,0,1
+1744478152456,54,Visit Website,200,OK,Thread Group 1-19,text,true,,2561,149,74,74,http://localhost:3000/,54,0,2
+1744478152456,55,Visit Website,200,OK,Thread Group 1-18,text,true,,2561,149,75,75,http://localhost:3000/,55,0,3
+1744478152457,55,Visit Website,200,OK,Thread Group 1-21,text,true,,2561,149,76,76,http://localhost:3000/,55,0,1
+1744478152457,55,Visit Website,200,OK,Thread Group 1-20,text,true,,2561,149,76,76,http://localhost:3000/,55,0,2
+1744478152460,53,Visit Website,200,OK,Thread Group 1-23,text,true,,2561,149,77,77,http://localhost:3000/,53,0,0
+1744478152460,54,Visit Website,200,OK,Thread Group 1-22,text,true,,2561,149,77,77,http://localhost:3000/,54,0,0
+1744478152462,53,Visit Website,200,OK,Thread Group 1-25,text,true,,2561,149,79,79,http://localhost:3000/,53,0,1
+1744478152462,54,Visit Website,200,OK,Thread Group 1-26,text,true,,2561,149,80,80,http://localhost:3000/,54,0,1
+1744478152462,55,Visit Website,200,OK,Thread Group 1-24,text,true,,2561,149,81,81,http://localhost:3000/,55,0,1
+1744478152464,54,Visit Website,200,OK,Thread Group 1-28,text,true,,2561,149,82,82,http://localhost:3000/,54,0,0
+1744478152464,55,Visit Website,200,OK,Thread Group 1-27,text,true,,2561,149,83,83,http://localhost:3000/,55,0,0
+1744478152466,55,Visit Website,200,OK,Thread Group 1-29,text,true,,2561,149,84,84,http://localhost:3000/,55,0,1
+1744478152467,55,Visit Website,200,OK,Thread Group 1-30,text,true,,2561,149,86,86,http://localhost:3000/,55,0,0
+1744478152468,55,Visit Website,200,OK,Thread Group 1-32,text,true,,2561,149,87,87,http://localhost:3000/,55,0,1
+1744478152468,56,Visit Website,200,OK,Thread Group 1-31,text,true,,2561,149,88,88,http://localhost:3000/,56,0,1
+1744478152469,56,Visit Website,200,OK,Thread Group 1-33,text,true,,2561,149,89,89,http://localhost:3000/,56,0,1
+1744478152470,56,Visit Website,200,OK,Thread Group 1-34,text,true,,2561,149,90,90,http://localhost:3000/,56,0,1
+1744478152471,56,Visit Website,200,OK,Thread Group 1-35,text,true,,2561,149,91,91,http://localhost:3000/,56,0,1
+1744478152472,56,Visit Website,200,OK,Thread Group 1-36,text,true,,2561,149,91,91,http://localhost:3000/,56,0,1
+1744478152475,54,Visit Website,200,OK,Thread Group 1-38,text,true,,2561,149,93,93,http://localhost:3000/,54,0,0
+1744478152475,55,Visit Website,200,OK,Thread Group 1-37,text,true,,2561,149,93,93,http://localhost:3000/,55,0,0
+1744478152475,56,Visit Website,200,OK,Thread Group 1-39,text,true,,2561,149,94,94,http://localhost:3000/,56,0,1
+1744478152477,55,Visit Website,200,OK,Thread Group 1-42,text,true,,2561,149,94,94,http://localhost:3000/,55,0,1
+1744478152477,57,Visit Website,200,OK,Thread Group 1-40,text,true,,2561,149,97,97,http://localhost:3000/,57,0,1
+1744478152478,57,Visit Website,200,OK,Thread Group 1-41,text,true,,2561,149,99,99,http://localhost:3000/,57,0,1
+1744478152478,58,Visit Website,200,OK,Thread Group 1-43,text,true,,2561,149,100,100,http://localhost:3000/,58,0,1
+1744478152480,57,Visit Website,200,OK,Thread Group 1-44,text,true,,2561,149,100,100,http://localhost:3000/,57,0,1
+1744478152481,57,Visit Website,200,OK,Thread Group 1-45,text,true,,2561,149,102,102,http://localhost:3000/,57,0,1
+1744478152481,58,Visit Website,200,OK,Thread Group 1-46,text,true,,2561,149,102,102,http://localhost:3000/,58,0,1
+1744478152482,58,Visit Website,200,OK,Thread Group 1-47,text,true,,2561,149,103,103,http://localhost:3000/,58,0,1
+1744478152483,57,Visit Website,200,OK,Thread Group 1-48,text,true,,2561,149,103,103,http://localhost:3000/,57,0,1
+1744478152485,56,Visit Website,200,OK,Thread Group 1-49,text,true,,2561,149,103,103,http://localhost:3000/,56,0,1
+1744478152487,107,Visit Website,200,OK,Thread Group 1-50,text,true,,2561,149,158,158,http://localhost:3000/,107,0,1
+1744478152487,108,Visit Website,200,OK,Thread Group 1-51,text,true,,2561,149,160,160,http://localhost:3000/,108,0,1
+1744478152488,108,Visit Website,200,OK,Thread Group 1-52,text,true,,2561,149,161,161,http://localhost:3000/,108,0,0
+1744478152489,109,Visit Website,200,OK,Thread Group 1-53,text,true,,2561,149,161,161,http://localhost:3000/,109,0,1
+1744478152493,106,Visit Website,200,OK,Thread Group 1-58,text,true,,2561,149,162,162,http://localhost:3000/,106,0,1
+1744478152493,107,Visit Website,200,OK,Thread Group 1-57,text,true,,2561,149,164,164,http://localhost:3000/,107,0,1
+1744478152493,108,Visit Website,200,OK,Thread Group 1-54,text,true,,2561,149,166,166,http://localhost:3000/,108,0,1
+1744478152493,109,Visit Website,200,OK,Thread Group 1-55,text,true,,2561,149,167,167,http://localhost:3000/,109,0,1
+1744478152493,111,Visit Website,200,OK,Thread Group 1-56,text,true,,2561,149,167,167,http://localhost:3000/,111,0,1
+1744478152496,109,Visit Website,200,OK,Thread Group 1-59,text,true,,2561,149,169,169,http://localhost:3000/,109,0,0
+1744478152496,110,Visit Website,200,OK,Thread Group 1-60,text,true,,2561,149,169,169,http://localhost:3000/,110,0,0
+1744478152496,111,Visit Website,200,OK,Thread Group 1-61,text,true,,2561,149,169,169,http://localhost:3000/,111,0,1
+1744478152498,110,Visit Website,200,OK,Thread Group 1-62,text,true,,2561,149,173,173,http://localhost:3000/,110,0,0
+1744478152499,110,Visit Website,200,OK,Thread Group 1-63,text,true,,2561,149,174,174,http://localhost:3000/,110,0,0
+1744478152499,111,Visit Website,200,OK,Thread Group 1-64,text,true,,2561,149,174,174,http://localhost:3000/,111,0,1
+1744478152503,108,Visit Website,200,OK,Thread Group 1-66,text,true,,2561,149,175,175,http://localhost:3000/,108,0,1
+1744478152503,109,Visit Website,200,OK,Thread Group 1-65,text,true,,2561,149,175,175,http://localhost:3000/,109,0,1
+1744478152503,110,Visit Website,200,OK,Thread Group 1-67,text,true,,2561,149,176,176,http://localhost:3000/,110,0,1
+1744478152504,110,Visit Website,200,OK,Thread Group 1-68,text,true,,2561,149,176,176,http://localhost:3000/,110,0,1
+1744478152505,110,Visit Website,200,OK,Thread Group 1-69,text,true,,2561,149,178,178,http://localhost:3000/,110,0,1
+1744478152506,110,Visit Website,200,OK,Thread Group 1-71,text,true,,2561,149,179,179,http://localhost:3000/,110,0,1
+1744478152508,109,Visit Website,200,OK,Thread Group 1-70,text,true,,2561,149,180,180,http://localhost:3000/,109,0,0
+1744478152508,110,Visit Website,200,OK,Thread Group 1-72,text,true,,2561,149,180,180,http://localhost:3000/,110,0,1
+1744478152509,110,Visit Website,200,OK,Thread Group 1-73,text,true,,2561,149,183,183,http://localhost:3000/,110,0,1
+1744478152509,112,Visit Website,200,OK,Thread Group 1-74,text,true,,2561,149,184,184,http://localhost:3000/,112,0,1
+1744478152510,112,Visit Website,200,OK,Thread Group 1-75,text,true,,2561,149,184,184,http://localhost:3000/,112,0,1
+1744478152511,112,Visit Website,200,OK,Thread Group 1-76,text,true,,2561,149,186,186,http://localhost:3000/,112,0,1
+1744478152513,111,Visit Website,200,OK,Thread Group 1-77,text,true,,2561,149,186,186,http://localhost:3000/,111,0,0
+1744478152515,110,Visit Website,200,OK,Thread Group 1-79,text,true,,2561,149,189,189,http://localhost:3000/,110,0,0
+1744478152515,111,Visit Website,200,OK,Thread Group 1-78,text,true,,2561,149,189,189,http://localhost:3000/,111,0,0
+1744478152516,110,Visit Website,200,OK,Thread Group 1-80,text,true,,2561,149,190,190,http://localhost:3000/,110,0,0
+1744478152517,110,Visit Website,200,OK,Thread Group 1-81,text,true,,2561,149,191,191,http://localhost:3000/,110,0,0
+1744478152518,165,Visit Website,200,OK,Thread Group 1-82,text,true,,2561,149,246,246,http://localhost:3000/,165,0,1
+1744478152519,165,Visit Website,200,OK,Thread Group 1-83,text,true,,2561,149,248,248,http://localhost:3000/,165,0,1
+1744478152521,165,Visit Website,200,OK,Thread Group 1-85,text,true,,2561,149,250,250,http://localhost:3000/,165,0,1
+1744478152522,168,Visit Website,200,OK,Thread Group 1-84,text,true,,2561,149,254,254,http://localhost:3000/,168,0,0
+1744478152522,169,Visit Website,200,OK,Thread Group 1-86,text,true,,2561,149,255,255,http://localhost:3000/,169,0,0
+1744478152523,170,Visit Website,200,OK,Thread Group 1-87,text,true,,2561,149,255,255,http://localhost:3000/,170,0,0
+1744478152524,170,Visit Website,200,OK,Thread Group 1-88,text,true,,2561,149,257,257,http://localhost:3000/,170,0,0
+1744478152525,170,Visit Website,200,OK,Thread Group 1-89,text,true,,2561,149,258,258,http://localhost:3000/,170,0,0
+1744478152526,170,Visit Website,200,OK,Thread Group 1-90,text,true,,2561,149,260,260,http://localhost:3000/,170,0,0
+1744478152527,170,Visit Website,200,OK,Thread Group 1-91,text,true,,2561,149,260,260,http://localhost:3000/,170,0,0
+1744478152529,169,Visit Website,200,OK,Thread Group 1-92,text,true,,2561,149,261,261,http://localhost:3000/,169,0,1
+1744478152529,170,Visit Website,200,OK,Thread Group 1-93,text,true,,2561,149,263,263,http://localhost:3000/,170,0,1
+1744478152531,169,Visit Website,200,OK,Thread Group 1-94,text,true,,2561,149,263,263,http://localhost:3000/,169,0,1
+1744478152533,168,Visit Website,200,OK,Thread Group 1-95,text,true,,2561,149,264,264,http://localhost:3000/,168,0,1
+1744478152533,168,Visit Website,200,OK,Thread Group 1-96,text,true,,2561,149,265,265,http://localhost:3000/,168,0,1
+1744478152533,169,Visit Website,200,OK,Thread Group 1-97,text,true,,2561,149,265,265,http://localhost:3000/,169,0,1
+1744478152534,169,Visit Website,200,OK,Thread Group 1-99,text,true,,2561,149,265,265,http://localhost:3000/,169,0,1
+1744478152534,169,Visit Website,200,OK,Thread Group 1-98,text,true,,2561,149,267,267,http://localhost:3000/,169,0,1
+1744478152536,168,Visit Website,200,OK,Thread Group 1-100,text,true,,2561,149,267,267,http://localhost:3000/,168,0,0
+1744478152537,168,Visit Website,200,OK,Thread Group 1-101,text,true,,2561,149,269,269,http://localhost:3000/,168,0,0
+1744478152538,167,Visit Website,200,OK,Thread Group 1-102,text,true,,2561,149,269,269,http://localhost:3000/,167,0,0
+1744478152539,167,Visit Website,200,OK,Thread Group 1-103,text,true,,2561,149,270,270,http://localhost:3000/,167,0,0
+1744478152542,165,Visit Website,200,OK,Thread Group 1-104,text,true,,2561,149,270,270,http://localhost:3000/,165,0,0
+1744478152543,164,Visit Website,200,OK,Thread Group 1-105,text,true,,2561,149,271,271,http://localhost:3000/,164,0,0
+1744478152545,163,Visit Website,200,OK,Thread Group 1-107,text,true,,2561,149,271,271,http://localhost:3000/,163,0,0
+1744478152545,164,Visit Website,200,OK,Thread Group 1-108,text,true,,2561,149,273,273,http://localhost:3000/,164,0,0
+1744478152545,165,Visit Website,200,OK,Thread Group 1-106,text,true,,2561,149,273,273,http://localhost:3000/,165,0,0
+1744478152546,164,Visit Website,200,OK,Thread Group 1-109,text,true,,2561,149,273,273,http://localhost:3000/,164,0,0
+1744478152546,165,Visit Website,200,OK,Thread Group 1-110,text,true,,2561,149,273,273,http://localhost:3000/,165,0,0
+1744478152547,165,Visit Website,200,OK,Thread Group 1-111,text,true,,2561,149,273,273,http://localhost:3000/,165,0,0
+1744478152549,163,Visit Website,200,OK,Thread Group 1-113,text,true,,2561,149,276,276,http://localhost:3000/,163,0,1
+1744478152550,163,Visit Website,200,OK,Thread Group 1-114,text,true,,2561,149,277,277,http://localhost:3000/,163,0,0
+1744478152551,219,Visit Website,200,OK,Thread Group 1-112,text,true,,2561,149,333,333,http://localhost:3000/,219,0,1
+1744478152551,220,Visit Website,200,OK,Thread Group 1-115,text,true,,2561,149,335,335,http://localhost:3000/,220,0,1
+1744478152552,220,Visit Website,200,OK,Thread Group 1-118,text,true,,2561,149,337,337,http://localhost:3000/,220,0,0
+1744478152553,220,Visit Website,200,OK,Thread Group 1-116,text,true,,2561,149,337,337,http://localhost:3000/,220,0,2
+1744478152555,219,Visit Website,200,OK,Thread Group 1-119,text,true,,2561,149,337,337,http://localhost:3000/,219,0,1
+1744478152555,219,Visit Website,200,OK,Thread Group 1-120,text,true,,2561,149,339,339,http://localhost:3000/,219,0,1
+1744478152555,220,Visit Website,200,OK,Thread Group 1-117,text,true,,2561,149,340,340,http://localhost:3000/,220,0,1
+1744478152556,220,Visit Website,200,OK,Thread Group 1-121,text,true,,2561,149,341,341,http://localhost:3000/,220,0,0
+1744478152557,220,Visit Website,200,OK,Thread Group 1-122,text,true,,2561,149,342,342,http://localhost:3000/,220,0,0
+1744478152558,220,Visit Website,200,OK,Thread Group 1-123,text,true,,2561,149,342,342,http://localhost:3000/,220,0,0
+1744478152561,218,Visit Website,200,OK,Thread Group 1-125,text,true,,2561,149,343,343,http://localhost:3000/,218,0,0
+1744478152561,219,Visit Website,200,OK,Thread Group 1-124,text,true,,2561,149,344,344,http://localhost:3000/,219,0,0
+1744478152562,218,Visit Website,200,OK,Thread Group 1-127,text,true,,2561,149,345,345,http://localhost:3000/,218,0,0
+1744478152562,219,Visit Website,200,OK,Thread Group 1-126,text,true,,2561,149,345,345,http://localhost:3000/,219,0,0
+1744478152563,219,Visit Website,200,OK,Thread Group 1-128,text,true,,2561,149,347,347,http://localhost:3000/,219,0,0
+1744478152564,220,Visit Website,200,OK,Thread Group 1-129,text,true,,2561,149,348,348,http://localhost:3000/,220,0,0
+1744478152565,220,Visit Website,200,OK,Thread Group 1-130,text,true,,2561,149,350,350,http://localhost:3000/,220,0,1
+1744478152566,220,Visit Website,200,OK,Thread Group 1-132,text,true,,2561,149,351,351,http://localhost:3000/,220,0,1
+1744478152566,222,Visit Website,200,OK,Thread Group 1-131,text,true,,2561,149,352,352,http://localhost:3000/,222,0,1
+1744478152567,222,Visit Website,200,OK,Thread Group 1-133,text,true,,2561,149,353,353,http://localhost:3000/,222,0,0
+1744478152568,222,Visit Website,200,OK,Thread Group 1-134,text,true,,2561,149,354,354,http://localhost:3000/,222,0,0
+1744478152569,222,Visit Website,200,OK,Thread Group 1-135,text,true,,2561,149,354,354,http://localhost:3000/,222,0,0
+1744478152573,219,Visit Website,200,OK,Thread Group 1-137,text,true,,2561,149,356,356,http://localhost:3000/,219,0,0
+1744478152573,220,Visit Website,200,OK,Thread Group 1-138,text,true,,2561,149,356,356,http://localhost:3000/,220,0,0
+1744478152573,220,Visit Website,200,OK,Thread Group 1-136,text,true,,2561,149,357,357,http://localhost:3000/,220,0,0
+1744478152574,220,Visit Website,200,OK,Thread Group 1-139,text,true,,2561,149,357,357,http://localhost:3000/,220,0,1
+1744478152575,220,Visit Website,200,OK,Thread Group 1-140,text,true,,2561,149,359,359,http://localhost:3000/,220,0,1
+1744478152576,220,Visit Website,200,OK,Thread Group 1-142,text,true,,2561,149,359,359,http://localhost:3000/,220,0,1
+1744478152576,221,Visit Website,200,OK,Thread Group 1-141,text,true,,2561,149,359,359,http://localhost:3000/,221,0,1
+1744478152577,221,Visit Website,200,OK,Thread Group 1-143,text,true,,2561,149,361,361,http://localhost:3000/,221,0,1
+1744478152578,221,Visit Website,200,OK,Thread Group 1-144,text,true,,2561,149,361,361,http://localhost:3000/,221,0,1
+1744478152579,221,Visit Website,200,OK,Thread Group 1-145,text,true,,2561,149,361,361,http://localhost:3000/,221,0,1
+1744478152448,390,Login,200,OK,Thread Group 1-2,text,true,,696,241,399,399,http://localhost:3000/api/v1/auth/login,390,0,0
+1744478152441,399,Login,200,OK,Thread Group 1-1,text,true,,696,241,399,399,http://localhost:3000/api/v1/auth/login,399,0,0
+1744478152848,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-409,text,false,,2630,0,411,411,http://localhost:3000/,0,0,1
+1744478152580,269,Visit Website,200,OK,Thread Group 1-146,text,true,,2561,149,411,411,http://localhost:3000/,269,0,1
+1744478152848,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-413,text,false,,2630,0,411,411,http://localhost:3000/,0,0,1
+1744478152848,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-410,text,false,,2630,0,411,411,http://localhost:3000/,0,0,1
+1744478152849,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-411,text,false,,2630,0,408,408,http://localhost:3000/,0,0,1
+1744478152583,267,Visit Website,200,OK,Thread Group 1-147,text,true,,2561,149,410,410,http://localhost:3000/,267,0,1
+1744478152706,145,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-102,text,false,Test failed: code expected to contain /200/,2699,0,407,407,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152538,313,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-45,text,false,Test failed: code expected to contain /200/,2699,0,408,408,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152719,133,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-282,text,false,,2699,0,406,406,http://localhost:3000/,0,0,1
+1744478152583,269,Visit Website,200,OK,Thread Group 1-148,text,true,,2561,149,406,406,http://localhost:3000/,269,0,1
+1744478152791,61,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-355,text,false,,2699,0,405,405,http://localhost:3000/,0,0,0
+1744478152821,31,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-385,text,false,,2699,0,405,405,http://localhost:3000/,0,0,1
+1744478152767,86,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-332,text,false,,2699,0,404,404,http://localhost:3000/,0,0,1
+1744478152852,2,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-414,text,false,,2630,0,403,403,http://localhost:3000/,0,0,2
+1744478152676,178,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-240,text,false,,2699,0,403,403,http://localhost:3000/,0,0,0
+1744478152709,145,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-108,text,false,Test failed: code expected to contain /200/,2699,0,402,402,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152634,221,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-199,text,false,,2699,0,402,402,http://localhost:3000/,0,0,1
+1744478152585,270,Visit Website,200,OK,Thread Group 1-149,text,true,,2561,149,402,402,http://localhost:3000/,270,0,1
+1744478152765,91,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-329,text,false,,2699,0,400,400,http://localhost:3000/,0,0,0
+1744478152601,255,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-54,text,false,Test failed: code expected to contain /200/,2699,0,399,399,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152854,3,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-418,text,false,,2630,0,399,399,http://localhost:3000/,0,0,3
+1744478152856,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-416,text,false,,2630,0,398,398,http://localhost:3000/,0,0,1
+1744478152767,90,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-330,text,false,,2699,0,397,397,http://localhost:3000/,0,0,0
+1744478152587,270,Visit Website,200,OK,Thread Group 1-151,text,true,,2561,149,398,398,http://localhost:3000/,270,0,0
+1744478152843,15,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-405,text,false,,2699,0,397,397,http://localhost:3000/,0,0,1
+1744478152857,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-419,text,false,,2630,0,399,399,http://localhost:3000/,0,0,1
+1744478152587,271,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-150,text,false,,2699,0,399,399,http://localhost:3000/,0,0,0
+1744478152658,200,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-222,text,false,,2699,0,396,396,http://localhost:3000/,0,0,0
+1744478152776,82,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-117,text,false,Test failed: code expected to contain /200/,2699,0,396,396,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152858,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-415,text,false,,2630,0,396,396,http://localhost:3000/,0,0,1
+1744478152859,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-420,text,false,,2630,0,393,393,http://localhost:3000/,0,0,1
+1744478152699,161,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-93,text,false,Test failed: code expected to contain /200/,2699,0,391,391,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152673,188,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-236,text,false,,2699,0,390,390,http://localhost:3000/,0,0,0
+1744478152628,233,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-192,text,false,,2699,0,390,390,http://localhost:3000/,0,0,0
+1744478152755,106,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-319,text,false,,2699,0,391,391,http://localhost:3000/,0,0,1
+1744478152598,263,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-53,text,false,Test failed: code expected to contain /200/,2699,0,390,390,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152589,272,Visit Website,200,OK,Thread Group 1-152,text,true,,2561,149,390,390,http://localhost:3000/,272,0,0
+1744478152619,242,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-182,text,false,,2699,0,390,390,http://localhost:3000/,0,0,1
+1744478152743,118,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-307,text,false,,2699,0,390,390,http://localhost:3000/,0,0,0
+1744478152655,207,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-219,text,false,,2699,0,386,386,http://localhost:3000/,0,0,1
+1744478152666,196,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-230,text,false,,2699,0,385,385,http://localhost:3000/,0,0,1
+1744478152820,43,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-382,text,false,,2699,0,384,384,http://localhost:3000/,0,0,0
+1744478152775,90,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-339,text,false,,2699,0,385,385,http://localhost:3000/,0,0,0
+1744478152623,242,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-76,text,false,Test failed: code expected to contain /200/,2699,0,385,385,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152864,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-425,text,false,,2630,0,385,385,http://localhost:3000/,0,0,1
+1744478152864,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-424,text,false,,2630,0,385,385,http://localhost:3000/,0,0,1
+1744478152864,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-426,text,false,,2630,0,385,385,http://localhost:3000/,0,0,1
+1744478152864,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-423,text,false,,2630,0,385,385,http://localhost:3000/,0,0,1
+1744478152473,393,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-6,text,false,Test failed: code expected to contain /200/,2699,0,383,383,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152760,107,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-325,text,false,,2699,0,383,383,http://localhost:3000/,0,0,0
+1744478152795,72,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-359,text,false,,2699,0,383,383,http://localhost:3000/,0,0,1
+1744478152756,111,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-321,text,false,,2699,0,382,382,http://localhost:3000/,0,0,0
+1744478152866,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-422,text,false,,2630,0,382,382,http://localhost:3000/,0,0,1
+1744478152866,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-417,text,false,,2630,0,382,382,http://localhost:3000/,0,0,1
+1744478152803,64,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-366,text,false,,2699,0,382,382,http://localhost:3000/,0,0,1
+1744478152866,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-428,text,false,,2630,0,383,383,http://localhost:3000/,0,0,1
+1744478152815,53,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-377,text,false,,2699,0,376,376,http://localhost:3000/,0,0,0
+1744478152589,279,Visit Website,200,OK,Thread Group 1-153,text,true,,2561,149,376,376,http://localhost:3000/,279,0,0
+1744478152590,279,Visit Website,200,OK,Thread Group 1-154,text,true,,2561,149,376,376,http://localhost:3000/,279,0,0
+1744478152683,186,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-82,text,false,Test failed: code expected to contain /200/,2699,0,375,375,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152596,273,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-52,text,false,Test failed: code expected to contain /200/,2699,0,375,375,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152869,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-430,text,false,,2630,0,374,374,http://localhost:3000/,0,0,1
+1744478152590,280,Visit Website,200,OK,Thread Group 1-155,text,true,,2561,149,374,374,http://localhost:3000/,280,0,0
+1744478152631,239,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-195,text,false,,2699,0,373,373,http://localhost:3000/,0,0,0
+1744478152870,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-421,text,false,,2630,0,373,373,http://localhost:3000/,0,0,1
+1744478152591,280,Visit Website,200,OK,Thread Group 1-156,text,true,,2561,149,373,373,http://localhost:3000/,280,0,0
+1744478152840,31,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-390,text,false,,2699,0,373,373,http://localhost:3000/,0,0,1
+1744478152871,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-427,text,false,,2630,0,372,372,http://localhost:3000/,0,0,1
+1744478152871,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-431,text,false,,2630,0,372,372,http://localhost:3000/,0,0,1
+1744478152592,280,Visit Website,200,OK,Thread Group 1-157,text,true,,2561,149,372,372,http://localhost:3000/,280,0,0
+1744478152592,281,Visit Website,200,OK,Thread Group 1-158,text,true,,2561,149,371,371,http://localhost:3000/,281,0,0
+1744478152793,80,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-357,text,false,,2699,0,371,371,http://localhost:3000/,0,0,0
+1744478152594,280,Visit Website,200,OK,Thread Group 1-160,text,true,,2561,149,371,371,http://localhost:3000/,280,0,0
+1744478152873,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-432,text,false,,2630,0,371,371,http://localhost:3000/,0,0,1
+1744478152874,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-433,text,false,,2630,0,372,372,http://localhost:3000/,0,0,1
+1744478152874,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-429,text,false,,2630,0,373,373,http://localhost:3000/,0,0,1
+1744478152874,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-435,text,false,,2630,0,373,373,http://localhost:3000/,0,0,1
+1744478152594,281,Visit Website,200,OK,Thread Group 1-159,text,true,,2561,149,373,373,http://localhost:3000/,281,0,0
+1744478152753,122,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-318,text,false,,2699,0,371,371,http://localhost:3000/,0,0,1
+1744478152520,355,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-27,text,false,Test failed: code expected to contain /200/,2699,0,371,371,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152875,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-437,text,false,,2630,0,371,371,http://localhost:3000/,0,0,1
+1744478152596,280,Visit Website,200,OK,Thread Group 1-161,text,true,,2561,149,367,367,http://localhost:3000/,280,0,0
+1744478152612,264,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-65,text,false,Test failed: code expected to contain /200/,2699,0,367,367,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152696,181,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-90,text,false,Test failed: code expected to contain /200/,2699,0,367,367,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152845,32,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-407,text,false,,2699,0,365,365,http://localhost:3000/,0,0,0
+1744478152598,279,Visit Website,200,OK,Thread Group 1-162,text,true,,2561,149,365,365,http://localhost:3000/,279,0,0
+1744478152805,73,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-368,text,false,,2699,0,365,365,http://localhost:3000/,0,0,1
+1744478152802,76,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-367,text,false,,2699,0,364,364,http://localhost:3000/,0,0,1
+1744478152599,280,Visit Website,200,OK,Thread Group 1-164,text,true,,2561,149,363,363,http://localhost:3000/,280,0,0
+1744478152879,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-440,text,false,,2630,0,363,363,http://localhost:3000/,0,0,0
+1744478152599,281,Visit Website,200,OK,Thread Group 1-163,text,true,,2561,149,363,363,http://localhost:3000/,281,0,1
+1744478152880,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-444,text,false,,2630,0,363,363,http://localhost:3000/,0,0,0
+1744478152601,280,Visit Website,200,OK,Thread Group 1-165,text,true,,2561,149,363,363,http://localhost:3000/,280,0,0
+1744478152601,281,Visit Website,200,OK,Thread Group 1-166,text,true,,2561,149,363,363,http://localhost:3000/,281,0,0
+1744478152604,278,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-168,text,false,,2699,0,363,363,http://localhost:3000/,0,0,0
+1744478152869,13,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-154,text,false,Test failed: code expected to contain /200/,2699,0,364,364,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152703,180,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-267,text,false,,2699,0,363,363,http://localhost:3000/,0,0,0
+1744478152882,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-436,text,false,,2630,0,363,363,http://localhost:3000/,0,0,1
+1744478152882,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-442,text,false,,2630,0,363,363,http://localhost:3000/,0,0,1
+1744478152783,100,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-128,text,false,Test failed: code expected to contain /200/,2699,0,363,363,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152602,284,Visit Website,200,OK,Thread Group 1-167,text,true,,2561,149,363,363,http://localhost:3000/,284,0,0
+1744478152883,3,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-448,text,false,,2630,0,364,364,http://localhost:3000/,0,0,3
+1744478152886,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-434,text,false,,2630,0,363,363,http://localhost:3000/,0,0,1
+1744478152886,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-439,text,false,,2630,0,363,363,http://localhost:3000/,0,0,1
+1744478152886,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-446,text,false,,2630,0,363,363,http://localhost:3000/,0,0,1
+1744478152622,265,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-75,text,false,Test failed: code expected to contain /200/,2699,0,363,363,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152887,3,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-447,text,false,,2630,0,362,362,http://localhost:3000/,0,0,3
+1744478152889,2,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-449,text,false,,2630,0,360,360,http://localhost:3000/,0,0,2
+1744478152685,206,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-249,text,false,,2699,0,359,359,http://localhost:3000/,0,0,1
+1744478152773,118,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-116,text,false,Test failed: code expected to contain /200/,2699,0,359,359,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152511,381,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-18,text,false,Test failed: code expected to contain /200/,2699,0,358,358,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152604,288,Visit Website,200,OK,Thread Group 1-169,text,true,,2561,149,358,358,http://localhost:3000/,288,0,0
+1744478152832,60,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-395,text,false,,2699,0,358,358,http://localhost:3000/,0,0,1
+1744478152891,2,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-451,text,false,,2630,0,357,357,http://localhost:3000/,0,0,2
+1744478152607,287,Visit Website,200,OK,Thread Group 1-171,text,true,,2561,149,354,354,http://localhost:3000/,287,0,1
+1744478152708,187,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-105,text,false,Test failed: code expected to contain /200/,2699,0,356,356,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152607,288,Visit Website,200,OK,Thread Group 1-170,text,true,,2561,149,357,357,http://localhost:3000/,288,0,1
+1744478152894,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-455,text,false,,2630,0,357,357,http://localhost:3000/,0,0,1
+1744478152895,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-456,text,false,,2630,0,356,356,http://localhost:3000/,0,0,1
+1744478152895,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-452,text,false,,2630,0,355,355,http://localhost:3000/,0,0,1
+1744478152608,288,Visit Website,200,OK,Thread Group 1-172,text,true,,2561,149,354,354,http://localhost:3000/,288,0,0
+1744478152834,63,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-398,text,false,,2699,0,354,354,http://localhost:3000/,0,0,1
+1744478152608,289,Visit Website,200,OK,Thread Group 1-173,text,true,,2561,149,356,356,http://localhost:3000/,289,0,0
+1744478152897,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-457,text,false,,2630,0,356,356,http://localhost:3000/,0,0,0
+1744478152897,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-458,text,false,,2630,0,356,356,http://localhost:3000/,0,0,1
+1744478152897,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-454,text,false,,2630,0,356,356,http://localhost:3000/,0,0,1
+1744478152647,251,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-211,text,false,,2699,0,355,355,http://localhost:3000/,0,0,0
+1744478152483,415,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-13,text,false,Test failed: code expected to contain /200/,2699,0,355,355,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152785,113,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-349,text,false,,2699,0,355,355,http://localhost:3000/,0,0,0
+1744478152609,290,Visit Website,200,OK,Thread Group 1-174,text,true,,2561,149,355,355,http://localhost:3000/,290,0,0
+1744478152611,288,Visit Website,200,OK,Thread Group 1-175,text,true,,2561,149,351,351,http://localhost:3000/,288,0,0
+1744478152896,4,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-172,text,false,Test failed: code expected to contain /200/,2699,0,348,348,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152613,288,Visit Website,200,OK,Thread Group 1-176,text,true,,2561,149,348,348,http://localhost:3000/,288,0,0
+1744478152900,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-453,text,false,,2630,0,348,348,http://localhost:3000/,0,0,1
+1744478152614,288,Visit Website,200,OK,Thread Group 1-177,text,true,,2561,149,349,349,http://localhost:3000/,288,0,1
+1744478152640,262,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-205,text,false,,2699,0,349,349,http://localhost:3000/,0,0,0
+1744478152902,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-459,text,false,,2630,0,348,348,http://localhost:3000/,0,0,0
+1744478152902,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-460,text,false,,2630,0,349,349,http://localhost:3000/,0,0,0
+1744478152903,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-461,text,false,,2630,0,349,349,http://localhost:3000/,0,0,0
+1744478152903,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-462,text,false,,2630,0,349,349,http://localhost:3000/,0,0,0
+1744478152689,215,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-254,text,false,,2699,0,348,348,http://localhost:3000/,0,0,0
+1744478152904,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-467,text,false,,2630,0,350,350,http://localhost:3000/,0,0,1
+1744478152904,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-463,text,false,,2630,0,350,350,http://localhost:3000/,0,0,1
+1744478152624,283,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-187,text,false,,2699,0,349,349,http://localhost:3000/,0,0,1
+1744478152907,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-465,text,false,,2630,0,345,345,http://localhost:3000/,0,0,1
+1744478152723,186,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-287,text,false,,2699,0,344,344,http://localhost:3000/,0,0,0
+1744478152909,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-470,text,false,,2630,0,344,344,http://localhost:3000/,0,0,1
+1744478152898,12,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-173,text,false,Test failed: code expected to contain /200/,2699,0,344,344,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152910,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-468,text,false,,2630,0,344,344,http://localhost:3000/,0,0,0
+1744478152679,233,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-244,text,false,,2699,0,344,344,http://localhost:3000/,0,0,0
+1744478152911,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-469,text,false,,2630,0,344,344,http://localhost:3000/,0,0,1
+1744478152762,150,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-327,text,false,,2699,0,344,344,http://localhost:3000/,0,0,0
+1744478152491,421,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-15,text,false,Test failed: code expected to contain /200/,2699,0,344,344,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152899,13,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-174,text,false,Test failed: code expected to contain /200/,2699,0,345,345,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152700,212,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-264,text,false,,2699,0,346,346,http://localhost:3000/,0,0,1
+1744478152747,165,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-312,text,false,,2699,0,346,346,http://localhost:3000/,0,0,1
+1744478152536,377,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-43,text,false,Test failed: code expected to contain /200/,2699,0,345,345,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152697,217,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-91,text,false,Test failed: code expected to contain /200/,2699,0,343,343,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152913,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-476,text,false,,2630,0,342,342,http://localhost:3000/,0,0,1
+1744478152914,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-464,text,false,,2630,0,342,342,http://localhost:3000/,0,0,1
+1744478152915,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-472,text,false,,2630,0,340,340,http://localhost:3000/,0,0,1
+1744478152713,205,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-113,text,false,Test failed: code expected to contain /200/,2699,0,338,338,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152917,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-473,text,false,,2630,0,338,338,http://localhost:3000/,0,0,1
+1744478152917,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-474,text,false,,2630,0,338,338,http://localhost:3000/,0,0,1
+1744478152918,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-477,text,false,,2630,0,338,338,http://localhost:3000/,0,0,0
+1744478152918,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-479,text,false,,2630,0,339,339,http://localhost:3000/,0,0,1
+1744478152636,283,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-200,text,false,,2699,0,339,339,http://localhost:3000/,0,0,0
+1744478152918,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-475,text,false,,2630,0,339,339,http://localhost:3000/,0,0,1
+1744478152529,390,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-38,text,false,Test failed: code expected to contain /200/,2699,0,339,339,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152922,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-480,text,false,,2630,0,338,338,http://localhost:3000/,0,0,1
+1744478152922,2,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-486,text,false,,2630,0,338,338,http://localhost:3000/,0,0,2
+1744478152923,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-482,text,false,,2630,0,335,335,http://localhost:3000/,0,0,1
+1744478152837,88,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-399,text,false,,2699,0,333,333,http://localhost:3000/,0,0,1
+1744478152925,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-483,text,false,,2630,0,333,333,http://localhost:3000/,0,0,1
+1744478152926,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-481,text,false,,2630,0,334,334,http://localhost:3000/,0,0,1
+1744478152926,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-478,text,false,,2630,0,333,333,http://localhost:3000/,0,0,1
+1744478152638,291,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-202,text,false,,2699,0,333,333,http://localhost:3000/,0,0,0
+1744478152929,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-485,text,false,,2630,0,332,332,http://localhost:3000/,0,0,0
+1744478152929,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-490,text,false,,2630,0,332,332,http://localhost:3000/,0,0,0
+1744478152929,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-487,text,false,,2630,0,330,330,http://localhost:3000/,0,0,1
+1744478152771,160,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-334,text,false,,2699,0,330,330,http://localhost:3000/,0,0,0
+1744478152786,145,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-351,text,false,,2699,0,329,329,http://localhost:3000/,0,0,1
+1744478152932,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-488,text,false,,2630,0,327,327,http://localhost:3000/,0,0,1
+1744478152779,154,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-344,text,false,,2699,0,327,327,http://localhost:3000/,0,0,0
+1744478152829,104,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-391,text,false,,2699,0,327,327,http://localhost:3000/,0,0,0
+1744478152935,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-492,text,false,,2630,0,327,327,http://localhost:3000/,0,0,1
+1744478152698,239,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-92,text,false,Test failed: code expected to contain /200/,2699,0,328,328,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152936,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-500,text,false,,2630,0,328,328,http://localhost:3000/,0,0,1
+1744478152936,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-491,text,false,,2630,0,328,328,http://localhost:3000/,0,0,1
+1744478152936,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-489,text,false,,2630,0,328,328,http://localhost:3000/,0,0,1
+1744478152938,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-493,text,false,,2630,0,327,327,http://localhost:3000/,0,0,0
+1744478152727,211,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-292,text,false,,2699,0,326,326,http://localhost:3000/,0,0,0
+1744478152939,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-495,text,false,,2630,0,325,325,http://localhost:3000/,0,0,1
+1744478152795,147,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-358,text,false,,2699,0,325,325,http://localhost:3000/,0,0,1
+1744478152941,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-505,text,false,,2630,0,325,325,http://localhost:3000/,0,0,1
+1744478152941,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-498,text,false,,2630,0,325,325,http://localhost:3000/,0,0,1
+1744478152731,212,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-294,text,false,,2699,0,323,323,http://localhost:3000/,0,0,0
+1744478152704,241,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-268,text,false,,2699,0,321,321,http://localhost:3000/,0,0,1
+1744478152451,495,Login,200,OK,Thread Group 1-4,text,true,,696,241,321,321,http://localhost:3000/api/v1/auth/login,495,0,0
+1744478152945,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-509,text,false,,2630,0,321,321,http://localhost:3000/,0,0,1
+1744478152453,494,Login,200,OK,Thread Group 1-5,text,true,,696,241,321,321,http://localhost:3000/api/v1/auth/login,494,0,0
+1744478152446,504,Login,200,OK,Thread Group 1-3,text,true,,696,241,322,322,http://localhost:3000/api/v1/auth/login,503,0,0
+1744478152621,330,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-74,text,false,Test failed: code expected to contain /200/,2699,0,320,320,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152948,3,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-504,text,false,,2630,0,320,320,http://localhost:3000/,0,0,3
+1744478152614,337,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-68,text,false,Test failed: code expected to contain /200/,2699,0,320,320,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152670,281,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-234,text,false,,2699,0,320,320,http://localhost:3000/,0,0,1
+1744478152950,2,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-507,text,false,,2630,0,320,320,http://localhost:3000/,0,0,2
+1744478152950,2,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-502,text,false,,2630,0,320,320,http://localhost:3000/,0,0,2
+1744478152951,2,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-508,text,false,,2630,0,320,320,http://localhost:3000/,0,0,2
+1744478152783,174,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-347,text,false,,2699,0,318,318,http://localhost:3000/,0,0,1
+1744478152780,177,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-127,text,false,Test failed: code expected to contain /200/,2699,0,318,318,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152541,416,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-48,text,false,Test failed: code expected to contain /200/,2699,0,318,318,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152958,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-514,text,false,,2630,0,316,316,http://localhost:3000/,0,0,1
+1744478152958,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-499,text,false,,2630,0,316,316,http://localhost:3000/,0,0,1
+1744478152959,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-506,text,false,,2630,0,316,316,http://localhost:3000/,0,0,1
+1744478152960,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-510,text,false,,2630,0,315,315,http://localhost:3000/,0,0,1
+1744478152960,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-518,text,false,,2630,0,315,315,http://localhost:3000/,0,0,1
+1744478152637,324,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-201,text,false,,2699,0,314,314,http://localhost:3000/,0,0,0
+1744478152961,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-516,text,false,,2630,0,313,313,http://localhost:3000/,0,0,0
+1744478152790,172,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-134,text,false,Test failed: code expected to contain /200/,2699,0,311,311,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152695,267,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-260,text,false,,2699,0,312,312,http://localhost:3000/,0,0,1
+1744478152963,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-519,text,false,,2630,0,310,310,http://localhost:3000/,0,0,1
+1744478152712,254,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-111,text,false,Test failed: code expected to contain /200/,2699,0,311,311,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152967,2,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-523,text,false,,2630,0,309,309,http://localhost:3000/,0,0,2
+1744478152614,355,Visit Website,200,OK,Thread Group 1-178,text,true,,2561,149,308,308,http://localhost:3000/,355,0,1
+1744478152969,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-517,text,false,,2630,0,308,308,http://localhost:3000/,0,0,1
+1744478152969,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-525,text,false,,2630,0,308,308,http://localhost:3000/,0,0,1
+1744478152615,356,Visit Website,200,OK,Thread Group 1-179,text,true,,2561,149,308,308,http://localhost:3000/,356,0,1
+1744478152616,355,Visit Website,200,OK,Thread Group 1-180,text,true,,2561,149,309,309,http://localhost:3000/,355,0,1
+1744478152695,277,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-259,text,false,,2699,0,310,310,http://localhost:3000/,0,0,1
+1744478152619,353,Visit Website,200,OK,Thread Group 1-183,text,true,,2561,149,310,310,http://localhost:3000/,353,0,1
+1744478152712,260,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-276,text,false,,2699,0,310,310,http://localhost:3000/,0,0,0
+1744478152971,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-526,text,false,,2630,0,310,310,http://localhost:3000/,0,0,1
+1744478152972,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-529,text,false,,2630,0,309,309,http://localhost:3000/,0,0,1
+1744478152619,354,Visit Website,200,OK,Thread Group 1-181,text,true,,2561,149,307,307,http://localhost:3000/,354,0,1
+1744478152845,129,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-406,text,false,,2699,0,307,307,http://localhost:3000/,0,0,0
+1744478152620,355,Visit Website,200,OK,Thread Group 1-184,text,true,,2561,149,308,308,http://localhost:3000/,355,0,1
+1744478152616,359,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-71,text,false,Test failed: code expected to contain /200/,2699,0,308,308,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152975,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-539,text,false,,2630,0,306,306,http://localhost:3000/,0,0,1
+1744478152623,353,Visit Website,200,OK,Thread Group 1-185,text,true,,2561,149,309,309,http://localhost:3000/,353,0,0
+1744478152705,271,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-101,text,false,Test failed: code expected to contain /200/,2699,0,309,309,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152720,257,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-284,text,false,,2699,0,306,306,http://localhost:3000/,0,0,0
+1744478152976,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-533,text,false,,2630,0,306,306,http://localhost:3000/,0,0,1
+1744478152976,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-531,text,false,,2630,0,306,306,http://localhost:3000/,0,0,1
+1744478152976,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-532,text,false,,2630,0,306,306,http://localhost:3000/,0,0,1
+1744478152976,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-534,text,false,,2630,0,306,306,http://localhost:3000/,0,0,1
+1744478152976,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-527,text,false,,2630,0,306,306,http://localhost:3000/,0,0,1
+1744478152623,354,Visit Website,200,OK,Thread Group 1-186,text,true,,2561,149,306,306,http://localhost:3000/,354,0,0
+1744478152978,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-528,text,false,,2630,0,306,306,http://localhost:3000/,0,0,0
+1744478152625,354,Visit Website,200,OK,Thread Group 1-188,text,true,,2561,149,306,306,http://localhost:3000/,354,0,0
+1744478152510,469,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-19,text,false,Test failed: code expected to contain /200/,2699,0,307,307,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152608,371,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-62,text,false,Test failed: code expected to contain /200/,2699,0,307,307,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152516,463,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-26,text,false,Test failed: code expected to contain /200/,2699,0,307,307,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152668,311,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-233,text,false,,2699,0,307,307,http://localhost:3000/,0,0,1
+1744478152738,241,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-301,text,false,,2699,0,307,307,http://localhost:3000/,0,0,0
+1744478152625,355,Visit Website,200,OK,Thread Group 1-189,text,true,,2561,149,304,304,http://localhost:3000/,355,0,0
+1744478152626,356,Visit Website,200,OK,Thread Group 1-190,text,true,,2561,149,296,296,http://localhost:3000/,356,0,0
+1744478152843,139,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-403,text,false,,2699,0,296,296,http://localhost:3000/,0,0,1
+1744478152981,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-537,text,false,,2630,0,296,296,http://localhost:3000/,0,0,1
+1744478152976,8,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-185,text,false,Test failed: code expected to contain /200/,2699,0,296,296,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152627,359,Visit Website,200,OK,Thread Group 1-191,text,true,,2561,149,296,296,http://localhost:3000/,359,0,0
+1744478152780,207,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-345,text,false,,2699,0,296,296,http://localhost:3000/,0,0,0
+1744478152986,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-544,text,false,,2630,0,295,295,http://localhost:3000/,0,0,1
+1744478152986,2,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-542,text,false,,2630,0,295,295,http://localhost:3000/,0,0,1
+1744478152629,360,Visit Website,200,OK,Thread Group 1-193,text,true,,2561,149,296,296,http://localhost:3000/,360,0,0
+1744478152630,362,Visit Website,200,OK,Thread Group 1-194,text,true,,2561,149,296,296,http://localhost:3000/,362,0,0
+1744478152989,3,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-545,text,false,,2630,0,296,296,http://localhost:3000/,0,0,3
+1744478152632,361,Visit Website,200,OK,Thread Group 1-196,text,true,,2561,149,295,295,http://localhost:3000/,361,0,0
+1744478152992,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-547,text,false,,2630,0,295,295,http://localhost:3000/,0,0,1
+1744478152633,361,Visit Website,200,OK,Thread Group 1-198,text,true,,2561,149,294,294,http://localhost:3000/,361,0,0
+1744478152633,361,Visit Website,200,OK,Thread Group 1-197,text,true,,2561,149,293,293,http://localhost:3000/,361,0,0
+1744478152746,249,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-311,text,false,,2699,0,292,292,http://localhost:3000/,0,0,1
+1744478152994,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-550,text,false,,2630,0,292,292,http://localhost:3000/,0,0,1
+1744478152688,307,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-251,text,false,,2699,0,292,292,http://localhost:3000/,0,0,1
+1744478152639,357,Visit Website,200,OK,Thread Group 1-203,text,true,,2561,149,292,292,http://localhost:3000/,357,0,0
+1744478152639,358,Visit Website,200,OK,Thread Group 1-204,text,true,,2561,149,294,294,http://localhost:3000/,358,0,0
+1744478152624,373,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-77,text,false,Test failed: code expected to contain /200/,2699,0,294,294,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152996,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-553,text,false,,2630,0,294,294,http://localhost:3000/,0,0,1
+1744478152642,356,Visit Website,200,OK,Thread Group 1-206,text,true,,2561,149,294,294,http://localhost:3000/,356,0,0
+1744478152997,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-554,text,false,,2630,0,294,294,http://localhost:3000/,0,0,1
+1744478152998,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-548,text,false,,2630,0,293,293,http://localhost:3000/,0,0,1
+1744478152644,356,Visit Website,200,OK,Thread Group 1-207,text,true,,2561,149,294,294,http://localhost:3000/,356,0,0
+1744478152644,358,Visit Website,200,OK,Thread Group 1-208,text,true,,2561,149,296,296,http://localhost:3000/,358,0,0
+1744478153001,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-556,text,false,,2630,0,296,296,http://localhost:3000/,0,0,1
+1744478153001,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-557,text,false,,2630,0,296,296,http://localhost:3000/,0,0,1
+1744478153001,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-549,text,false,,2630,0,296,296,http://localhost:3000/,0,0,1
+1744478153001,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-551,text,false,,2630,0,296,296,http://localhost:3000/,0,0,1
+1744478152655,347,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-218,text,false,,2699,0,296,296,http://localhost:3000/,0,0,1
+1744478152645,358,Visit Website,200,OK,Thread Group 1-209,text,true,,2561,149,296,296,http://localhost:3000/,358,0,0
+1744478153005,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-559,text,false,,2630,0,293,293,http://localhost:3000/,0,0,1
+1744478153007,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-564,text,false,,2630,0,291,291,http://localhost:3000/,0,0,0
+1744478152793,215,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-136,text,false,Test failed: code expected to contain /200/,2699,0,291,291,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152684,324,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-248,text,false,,2699,0,291,291,http://localhost:3000/,0,0,1
+1744478153008,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-561,text,false,,2630,0,292,292,http://localhost:3000/,0,0,0
+1744478152892,117,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-169,text,false,Test failed: code expected to contain /200/,2699,0,291,291,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153009,0,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-560,text,false,,2630,0,288,288,http://localhost:3000/,0,0,0
+1744478153009,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-565,text,false,,2630,0,287,287,http://localhost:3000/,0,0,1
+1744478153009,1,Visit Website,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Thread Group 1-566,text,false,,2630,0,286,286,http://localhost:3000/,0,0,1
+1744478152475,536,Login,200,OK,Thread Group 1-7,text,true,,696,241,285,285,http://localhost:3000/api/v1/auth/login,536,0,0
+1744478152703,309,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-266,text,false,,2699,0,284,284,http://localhost:3000/,0,0,0
+1744478152832,180,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-394,text,false,,2699,0,284,284,http://localhost:3000/,0,0,1
+1744478152673,339,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-237,text,false,,2699,0,284,284,http://localhost:3000/,0,0,0
+1744478152800,213,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-145,text,false,Test failed: code expected to contain /200/,2699,0,282,282,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152811,203,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-376,text,false,,2699,0,282,282,http://localhost:3000/,0,0,1
+1744478152781,234,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-126,text,false,Test failed: code expected to contain /200/,2699,0,282,282,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152723,302,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-288,text,false,,2699,0,287,287,http://localhost:3000/,0,0,0
+1744478152518,507,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-28,text,false,Test failed: code expected to contain /200/,2699,0,287,287,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152743,287,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-308,text,false,,2699,0,288,288,http://localhost:3000/,0,0,0
+1744478152986,46,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-191,text,false,Test failed: code expected to contain /200/,2699,0,289,289,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152477,556,Login,200,OK,Thread Group 1-9,text,true,,696,241,289,289,http://localhost:3000/api/v1/auth/login,556,0,0
+1744478152476,558,Login,200,OK,Thread Group 1-8,text,true,,696,241,288,288,http://localhost:3000/api/v1/auth/login,558,0,0
+1744478152839,196,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-401,text,false,,2699,0,288,288,http://localhost:3000/,0,0,1
+1744478152798,238,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-361,text,false,,2699,0,289,289,http://localhost:3000/,0,0,1
+1744478152698,338,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-263,text,false,,2699,0,290,290,http://localhost:3000/,0,0,1
+1744478152479,562,Login,200,OK,Thread Group 1-10,text,true,,698,243,287,287,http://localhost:3000/api/v1/auth/login,561,0,0
+1744478153019,25,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-576,text,false,,2699,0,286,286,http://localhost:3000/,0,0,1
+1744478152480,564,Login,200,OK,Thread Group 1-11,text,true,,698,243,289,289,http://localhost:3000/api/v1/auth/login,564,0,0
+1744478152484,562,Login,200,OK,Thread Group 1-14,text,true,,698,243,287,287,http://localhost:3000/api/v1/auth/login,562,0,0
+1744478152486,561,Login,200,OK,Thread Group 1-17,text,true,,698,243,287,287,http://localhost:3000/api/v1/auth/login,561,0,0
+1744478152618,430,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-72,text,false,Test failed: code expected to contain /200/,2699,0,285,285,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152646,403,Visit Website,200,OK,Thread Group 1-210,text,true,,2561,149,285,285,http://localhost:3000/,403,0,0
+1744478152971,78,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-180,text,false,Test failed: code expected to contain /200/,2699,0,284,284,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153001,49,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-207,text,false,Test failed: code expected to contain /200/,2699,0,285,285,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152648,404,Visit Website,200,OK,Thread Group 1-212,text,true,,2561,149,285,285,http://localhost:3000/,404,0,0
+1744478152649,405,Visit Website,200,OK,Thread Group 1-214,text,true,,2561,149,284,284,http://localhost:3000/,405,0,0
+1744478152649,408,Visit Website,200,OK,Thread Group 1-213,text,true,,2561,149,285,285,http://localhost:3000/,408,0,0
+1744478152691,366,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-86,text,false,Test failed: code expected to contain /200/,2699,0,286,286,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152650,408,Visit Website,200,OK,Thread Group 1-215,text,true,,2561,149,288,288,http://localhost:3000/,408,0,0
+1744478152651,408,Visit Website,200,OK,Thread Group 1-216,text,true,,2561,149,290,290,http://localhost:3000/,408,0,1
+1744478152652,408,Visit Website,200,OK,Thread Group 1-217,text,true,,2561,149,293,293,http://localhost:3000/,408,0,1
+1744478152657,404,Visit Website,200,OK,Thread Group 1-221,text,true,,2561,149,293,293,http://localhost:3000/,404,0,1
+1744478152657,404,Visit Website,200,OK,Thread Group 1-220,text,true,,2561,149,293,293,http://localhost:3000/,404,0,1
+1744478152659,403,Visit Website,200,OK,Thread Group 1-223,text,true,,2561,149,293,293,http://localhost:3000/,403,0,1
+1744478152660,403,Visit Website,200,OK,Thread Group 1-224,text,true,,2561,149,294,294,http://localhost:3000/,403,0,1
+1744478152772,291,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-336,text,false,,2699,0,295,295,http://localhost:3000/,0,0,0
+1744478152661,402,Visit Website,200,OK,Thread Group 1-225,text,true,,2561,149,295,295,http://localhost:3000/,402,0,1
+1744478152661,404,Visit Website,200,OK,Thread Group 1-227,text,true,,2561,149,295,295,http://localhost:3000/,404,0,1
+1744478152512,553,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-21,text,false,Test failed: code expected to contain /200/,2699,0,294,294,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152973,92,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-181,text,false,Test failed: code expected to contain /200/,2699,0,294,294,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152663,403,Visit Website,200,OK,Thread Group 1-226,text,true,,2561,149,294,294,http://localhost:3000/,403,0,0
+1744478152700,366,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-94,text,false,Test failed: code expected to contain /200/,2699,0,294,294,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152663,405,Visit Website,200,OK,Thread Group 1-228,text,true,,2561,149,293,293,http://localhost:3000/,405,0,0
+1744478152665,404,Visit Website,200,OK,Thread Group 1-229,text,true,,2561,149,293,293,http://localhost:3000/,404,0,0
+1744478152666,403,Visit Website,200,OK,Thread Group 1-231,text,true,,2561,149,294,294,http://localhost:3000/,403,0,1
+1744478152526,544,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-34,text,false,Test failed: code expected to contain /200/,2699,0,293,293,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152609,461,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-63,text,false,Test failed: code expected to contain /200/,2699,0,293,293,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152668,403,Visit Website,200,OK,Thread Group 1-232,text,true,,2561,149,294,294,http://localhost:3000/,403,0,1
+1744478152670,401,Visit Website,200,OK,Thread Group 1-235,text,true,,2561,149,294,294,http://localhost:3000/,401,0,1
+1744478152675,397,Visit Website,200,OK,Thread Group 1-239,text,true,,2561,149,296,296,http://localhost:3000/,397,0,0
+1744478152749,324,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-313,text,false,,2699,0,295,295,http://localhost:3000/,0,0,1
+1744478152675,399,Visit Website,200,OK,Thread Group 1-238,text,true,,2561,149,295,295,http://localhost:3000/,399,0,0
+1744478152676,398,Visit Website,200,OK,Thread Group 1-241,text,true,,2561,149,295,295,http://localhost:3000/,398,0,0
+1744478152522,554,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-29,text,false,Test failed: code expected to contain /200/,2699,0,299,299,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152712,364,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-274,text,false,,2699,0,300,300,http://localhost:3000/,0,0,0
+1744478152834,242,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-393,text,false,,2699,0,300,300,http://localhost:3000/,0,0,1
+1744478152901,177,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-176,text,false,Test failed: code expected to contain /200/,2699,0,296,296,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153030,48,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-585,text,false,,2699,0,296,296,http://localhost:3000/,0,0,1
+1744478152820,260,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-383,text,false,,2699,0,296,296,http://localhost:3000/,0,0,1
+1744478152710,371,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-106,text,false,Test failed: code expected to contain /200/,2699,0,296,296,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152880,201,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-163,text,false,Test failed: code expected to contain /200/,2699,0,296,296,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152687,400,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-85,text,false,Test failed: code expected to contain /200/,2699,0,293,293,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152719,371,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-283,text,false,,2699,0,297,297,http://localhost:3000/,0,0,1
+1744478152726,369,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-290,text,false,,2699,0,296,296,http://localhost:3000/,0,0,0
+1744478152627,468,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-81,text,false,Test failed: code expected to contain /200/,2699,0,296,296,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152738,361,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-303,text,false,,2699,0,298,298,http://localhost:3000/,0,0,0
+1744478153023,78,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-575,text,false,,2699,0,299,299,http://localhost:3000/,0,0,1
+1744478153060,44,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-217,text,false,Test failed: code expected to contain /200/,2699,0,298,298,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152800,307,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-363,text,false,,2699,0,301,301,http://localhost:3000/,0,0,1
+1744478152886,221,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-167,text,false,Test failed: code expected to contain /200/,2699,0,301,301,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152895,212,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-170,text,false,Test failed: code expected to contain /200/,2699,0,301,301,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152785,322,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-130,text,false,Test failed: code expected to contain /200/,2699,0,301,301,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152488,620,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-16,text,false,Test failed: code expected to contain /200/,2699,0,300,300,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152841,268,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-404,text,false,,2699,0,299,299,http://localhost:3000/,0,0,1
+1744478153077,33,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-629,text,false,,2699,0,299,299,http://localhost:3000/,0,0,0
+1744478152481,631,Login,200,OK,Thread Group 1-12,text,true,,698,243,297,297,http://localhost:3000/api/v1/auth/login,630,0,0
+1744478153074,38,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-238,text,false,Test failed: code expected to contain /200/,2699,0,297,297,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152595,517,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-51,text,false,Test failed: code expected to contain /200/,2699,0,296,296,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152683,431,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-247,text,false,,2699,0,295,295,http://localhost:3000/,0,0,0
+1744478152772,343,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-337,text,false,,2699,0,294,294,http://localhost:3000/,0,0,0
+1744478153079,41,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-636,text,false,,2699,0,294,294,http://localhost:3000/,0,0,1
+1744478152774,346,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-119,text,false,Test failed: code expected to contain /200/,2699,0,294,294,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152677,447,Visit Website,200,OK,Thread Group 1-242,text,true,,2561,149,293,293,http://localhost:3000/,447,0,0
+1744478152678,447,Visit Website,200,OK,Thread Group 1-243,text,true,,2561,149,293,293,http://localhost:3000/,447,0,0
+1744478152721,404,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-285,text,false,,2699,0,293,293,http://localhost:3000/,0,0,0
+1744478153059,66,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-608,text,false,,2699,0,293,293,http://localhost:3000/,0,0,1
+1744478152682,443,Visit Website,200,OK,Thread Group 1-245,text,true,,2561,149,292,292,http://localhost:3000/,443,0,0
+1744478152682,444,Visit Website,200,OK,Thread Group 1-246,text,true,,2561,149,292,292,http://localhost:3000/,444,0,0
+1744478152831,296,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-392,text,false,,2699,0,292,292,http://localhost:3000/,0,0,1
+1744478152613,514,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-67,text,false,Test failed: code expected to contain /200/,2699,0,292,292,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152530,597,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-37,text,false,Test failed: code expected to contain /200/,2699,0,292,292,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152685,442,Visit Website,200,OK,Thread Group 1-250,text,true,,2561,149,292,292,http://localhost:3000/,442,0,1
+1744478152688,440,Visit Website,200,OK,Thread Group 1-252,text,true,,2561,149,291,291,http://localhost:3000/,440,0,1
+1744478152688,441,Visit Website,200,OK,Thread Group 1-253,text,true,,2561,149,292,292,http://localhost:3000/,441,0,1
+1744478152691,439,Visit Website,200,OK,Thread Group 1-255,text,true,,2561,149,292,292,http://localhost:3000/,439,0,1
+1744478152693,438,Visit Website,200,OK,Thread Group 1-257,text,true,,2561,149,291,291,http://localhost:3000/,438,0,0
+1744478153056,75,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-611,text,false,,2699,0,291,291,http://localhost:3000/,0,0,1
+1744478152693,438,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-256,text,false,,2699,0,291,291,http://localhost:3000/,0,0,0
+1744478153054,78,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-214,text,false,Test failed: code expected to contain /200/,2699,0,291,291,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152694,440,Visit Website,200,OK,Thread Group 1-258,text,true,,2561,149,290,290,http://localhost:3000/,440,0,1
+1744478152770,364,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-112,text,false,Test failed: code expected to contain /200/,2699,0,290,290,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152697,438,Visit Website,200,OK,Thread Group 1-261,text,true,,2561,149,291,291,http://localhost:3000/,438,0,1
+1744478152698,438,Visit Website,200,OK,Thread Group 1-262,text,true,,2561,149,293,293,http://localhost:3000/,438,0,1
+1744478152774,363,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-120,text,false,Test failed: code expected to contain /200/,2699,0,293,293,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152701,437,Visit Website,200,OK,Thread Group 1-265,text,true,,2561,149,291,291,http://localhost:3000/,437,0,1
+1744478152704,434,Visit Website,200,OK,Thread Group 1-269,text,true,,2561,149,291,291,http://localhost:3000/,434,0,1
+1744478152706,433,Visit Website,200,OK,Thread Group 1-270,text,true,,2561,149,291,291,http://localhost:3000/,433,0,0
+1744478152707,433,Visit Website,200,OK,Thread Group 1-271,text,true,,2561,149,291,291,http://localhost:3000/,433,0,0
+1744478152709,432,Visit Website,200,OK,Thread Group 1-273,text,true,,2561,149,292,292,http://localhost:3000/,432,0,0
+1744478152994,147,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-198,text,false,Test failed: code expected to contain /200/,2699,0,292,292,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152775,367,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-340,text,false,,2699,0,292,292,http://localhost:3000/,0,0,0
+1744478153103,39,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-660,text,false,,2699,0,292,292,http://localhost:3000/,0,0,0
+1744478152709,433,Visit Website,200,OK,Thread Group 1-272,text,true,,2561,149,291,291,http://localhost:3000/,433,0,0
+1744478153069,73,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-623,text,false,,2699,0,291,291,http://localhost:3000/,0,0,1
+1744478153076,66,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-633,text,false,,2699,0,292,292,http://localhost:3000/,0,0,1
+1744478152871,271,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-156,text,false,Test failed: code expected to contain /200/,2699,0,292,292,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152800,342,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-365,text,false,,2699,0,292,292,http://localhost:3000/,0,0,1
+1744478153058,85,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-610,text,false,,2699,0,287,287,http://localhost:3000/,0,0,0
+1744478152817,327,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-381,text,false,,2699,0,287,287,http://localhost:3000/,0,0,1
+1744478153090,54,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-644,text,false,,2699,0,287,287,http://localhost:3000/,0,0,1
+1744478152524,626,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-31,text,false,Test failed: code expected to contain /200/,2699,0,284,284,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152541,610,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-49,text,false,Test failed: code expected to contain /200/,2699,0,284,284,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152734,427,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-299,text,false,,2699,0,281,281,http://localhost:3000/,0,0,0
+1744478152776,387,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-121,text,false,Test failed: code expected to contain /200/,2699,0,281,281,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152784,379,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-348,text,false,,2699,0,281,281,http://localhost:3000/,0,0,0
+1744478153139,24,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-270,text,false,Test failed: code expected to contain /200/,2699,0,281,281,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153063,101,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-620,text,false,,2699,0,281,281,http://localhost:3000/,0,0,1
+1744478152704,464,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-100,text,false,Test failed: code expected to contain /200/,2699,0,278,278,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153096,72,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-651,text,false,,2699,0,277,277,http://localhost:3000/,0,0,0
+1744478153049,137,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-210,text,false,Test failed: code expected to contain /200/,2699,0,274,274,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152734,453,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-297,text,false,,2699,0,274,274,http://localhost:3000/,0,0,0
+1744478153062,125,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-220,text,false,Test failed: code expected to contain /200/,2699,0,274,274,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153098,93,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-650,text,false,,2699,0,272,272,http://localhost:3000/,0,0,1
+1744478153120,76,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-675,text,false,,2699,0,271,271,http://localhost:3000/,0,0,2
+1744478152515,681,Login,200,OK,Thread Group 1-25,text,true,,698,243,271,271,http://localhost:3000/api/v1/auth/login,681,0,0
+1744478153045,158,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-605,text,false,,2699,0,269,269,http://localhost:3000/,0,0,0
+1744478153136,70,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-262,text,false,Test failed: code expected to contain /200/,2699,0,268,268,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153136,74,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-692,text,false,,2699,0,267,267,http://localhost:3000/,0,0,0
+1744478153024,186,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-581,text,false,,2699,0,267,267,http://localhost:3000/,0,0,1
+1744478152875,336,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-159,text,false,Test failed: code expected to contain /200/,2699,0,266,266,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153130,81,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-255,text,false,Test failed: code expected to contain /200/,2699,0,266,266,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153131,80,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-257,text,false,Test failed: code expected to contain /200/,2699,0,263,263,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152534,680,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-40,text,false,Test failed: code expected to contain /200/,2699,0,262,262,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152527,688,Login,200,OK,Thread Group 1-35,text,true,,698,243,262,262,http://localhost:3000/api/v1/auth/login,688,0,0
+1744478152512,705,Login,200,OK,Thread Group 1-20,text,true,,698,243,262,262,http://localhost:3000/api/v1/auth/login,705,0,0
+1744478152715,509,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-280,text,false,,2699,0,258,258,http://localhost:3000/,0,0,1
+1744478152796,428,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-142,text,false,Test failed: code expected to contain /200/,2699,0,258,258,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153014,213,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-570,text,false,,2699,0,257,257,http://localhost:3000/,0,0,1
+1744478152717,510,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-281,text,false,,2699,0,256,256,http://localhost:3000/,0,0,1
+1744478152712,516,Visit Website,200,OK,Thread Group 1-275,text,true,,2561,149,256,256,http://localhost:3000/,516,0,0
+1744478152713,516,Visit Website,200,OK,Thread Group 1-277,text,true,,2561,149,256,256,http://localhost:3000/,516,0,0
+1744478152714,516,Visit Website,200,OK,Thread Group 1-278,text,true,,2561,149,256,256,http://localhost:3000/,516,0,1
+1744478152714,518,Visit Website,200,OK,Thread Group 1-279,text,true,,2561,149,255,255,http://localhost:3000/,518,0,1
+1744478153129,108,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-253,text,false,Test failed: code expected to contain /200/,2699,0,254,254,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152721,517,Visit Website,200,OK,Thread Group 1-286,text,true,,2561,149,254,254,http://localhost:3000/,517,0,1
+1744478152724,515,Visit Website,200,OK,Thread Group 1-289,text,true,,2561,149,254,254,http://localhost:3000/,515,0,1
+1744478152726,515,Visit Website,200,OK,Thread Group 1-291,text,true,,2561,149,254,254,http://localhost:3000/,515,0,0
+1744478152729,512,Visit Website,200,OK,Thread Group 1-293,text,true,,2561,149,254,254,http://localhost:3000/,512,0,0
+1744478152741,500,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-305,text,false,,2699,0,254,254,http://localhost:3000/,0,0,0
+1744478152732,510,Visit Website,200,OK,Thread Group 1-295,text,true,,2561,149,253,253,http://localhost:3000/,510,0,0
+1744478152733,511,Visit Website,200,OK,Thread Group 1-296,text,true,,2561,149,252,252,http://localhost:3000/,511,0,0
+1744478152734,512,Visit Website,200,OK,Thread Group 1-298,text,true,,2561,149,252,252,http://localhost:3000/,512,0,1
+1744478152736,511,Visit Website,200,OK,Thread Group 1-300,text,true,,2561,149,252,252,http://localhost:3000/,511,0,0
+1744478152826,421,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-388,text,false,,2699,0,252,252,http://localhost:3000/,0,0,0
+1744478153071,177,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-634,text,false,,2699,0,252,252,http://localhost:3000/,0,0,0
+1744478152737,512,Visit Website,200,OK,Thread Group 1-302,text,true,,2561,149,252,252,http://localhost:3000/,511,0,0
+1744478152741,512,Visit Website,200,OK,Thread Group 1-304,text,true,,2561,149,252,252,http://localhost:3000/,512,0,0
+1744478153051,202,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-606,text,false,,2699,0,252,252,http://localhost:3000/,0,0,1
+1744478153140,117,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-695,text,false,,2699,0,250,250,http://localhost:3000/,0,0,1
+1744478153014,245,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-571,text,false,,2699,0,248,248,http://localhost:3000/,0,0,1
+1744478152626,635,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-78,text,false,Test failed: code expected to contain /200/,2699,0,248,248,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153243,27,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-295,text,false,Test failed: code expected to contain /200/,2699,0,246,246,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152824,443,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-387,text,false,,2699,0,246,246,http://localhost:3000/,0,0,1
+1744478153019,260,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-573,text,false,,2699,0,245,245,http://localhost:3000/,0,0,1
+1744478153137,142,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-694,text,false,,2699,0,245,245,http://localhost:3000/,0,0,0
+1744478152808,471,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-372,text,false,,2699,0,245,245,http://localhost:3000/,0,0,1
+1744478152797,483,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-360,text,false,,2699,0,242,242,http://localhost:3000/,0,0,1
+1744478152528,752,Login,200,OK,Thread Group 1-36,text,true,,698,243,242,242,http://localhost:3000/api/v1/auth/login,752,0,0
+1744478152607,673,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-61,text,false,Test failed: code expected to contain /200/,2699,0,242,242,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152594,686,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-50,text,false,Test failed: code expected to contain /200/,2699,0,242,242,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152850,438,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-147,text,false,Test failed: code expected to contain /200/,2699,0,239,239,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152807,486,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-370,text,false,,2699,0,237,237,http://localhost:3000/,0,0,1
+1744478152810,483,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-374,text,false,,2699,0,237,237,http://localhost:3000/,0,0,0
+1744478152535,767,Login,200,OK,Thread Group 1-41,text,true,,698,243,235,235,http://localhost:3000/api/v1/auth/login,767,0,0
+1744478152815,489,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-378,text,false,,2699,0,233,233,http://localhost:3000/,0,0,0
+1744478152743,563,Visit Website,200,OK,Thread Group 1-306,text,true,,2561,149,232,232,http://localhost:3000/,563,0,0
+1744478152828,479,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-389,text,false,,2699,0,232,232,http://localhost:3000/,0,0,0
+1744478152745,562,Visit Website,200,OK,Thread Group 1-310,text,true,,2561,149,232,232,http://localhost:3000/,562,0,1
+1744478152745,563,Visit Website,200,OK,Thread Group 1-309,text,true,,2561,149,232,232,http://localhost:3000/,563,0,1
+1744478152751,559,Visit Website,200,OK,Thread Group 1-314,text,true,,2561,149,232,232,http://localhost:3000/,559,0,1
+1744478152751,560,Visit Website,200,OK,Thread Group 1-315,text,true,,2561,149,232,232,http://localhost:3000/,560,0,1
+1744478152763,547,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-328,text,false,,2699,0,232,232,http://localhost:3000/,0,0,0
+1744478153072,239,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-635,text,false,,2699,0,232,232,http://localhost:3000/,0,0,0
+1744478153012,299,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-569,text,false,,2699,0,231,231,http://localhost:3000/,0,0,0
+1744478152753,558,Visit Website,200,OK,Thread Group 1-316,text,true,,2561,149,231,231,http://localhost:3000/,558,0,1
+1744478152753,559,Visit Website,200,OK,Thread Group 1-317,text,true,,2561,149,229,229,http://localhost:3000/,559,0,1
+1744478153085,228,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-639,text,false,,2699,0,229,229,http://localhost:3000/,0,0,1
+1744478152756,558,Visit Website,200,OK,Thread Group 1-320,text,true,,2561,149,229,229,http://localhost:3000/,558,0,0
+1744478152758,560,Visit Website,200,OK,Thread Group 1-322,text,true,,2561,149,229,229,http://localhost:3000/,560,0,0
+1744478152759,562,Visit Website,200,OK,Thread Group 1-323,text,true,,2561,149,228,228,http://localhost:3000/,562,0,0
+1744478152703,619,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-98,text,false,Test failed: code expected to contain /200/,2699,0,227,227,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152761,562,Visit Website,200,OK,Thread Group 1-326,text,true,,2561,149,227,227,http://localhost:3000/,562,0,1
+1744478152761,563,Visit Website,200,OK,Thread Group 1-324,text,true,,2561,149,227,227,http://localhost:3000/,563,0,1
+1744478152767,558,Visit Website,200,OK,Thread Group 1-331,text,true,,2561,149,227,227,http://localhost:3000/,558,0,0
+1744478152769,557,Visit Website,200,OK,Thread Group 1-333,text,true,,2561,149,226,226,http://localhost:3000/,557,0,1
+1744478152771,556,Visit Website,200,OK,Thread Group 1-335,text,true,,2561,149,226,226,http://localhost:3000/,556,0,0
+1744478153072,255,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-628,text,false,,2699,0,226,226,http://localhost:3000/,0,0,0
+1744478153325,5,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-331,text,false,Test failed: code expected to contain /200/,2699,0,226,226,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153063,269,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-619,text,false,,2699,0,225,225,http://localhost:3000/,0,0,0
+1744478152969,363,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-178,text,false,Test failed: code expected to contain /200/,2699,0,225,225,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152702,630,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-97,text,false,Test failed: code expected to contain /200/,2699,0,225,225,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153134,199,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-691,text,false,,2699,0,225,225,http://localhost:3000/,0,0,1
+1744478153115,221,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-672,text,false,,2699,0,222,222,http://localhost:3000/,0,0,1
+1744478152537,820,Login,200,OK,Thread Group 1-44,text,true,,698,243,219,219,http://localhost:3000/api/v1/auth/login,820,0,0
+1744478152532,825,Login,200,OK,Thread Group 1-42,text,true,,698,243,219,219,http://localhost:3000/api/v1/auth/login,825,0,0
+1744478152539,818,Login,200,OK,Thread Group 1-46,text,true,,698,243,219,219,http://localhost:3000/api/v1/auth/login,818,0,0
+1744478152710,661,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-109,text,false,Test failed: code expected to contain /200/,2699,0,217,217,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152694,679,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-88,text,false,Test failed: code expected to contain /200/,2699,0,216,216,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152810,565,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-373,text,false,,2699,0,214,214,http://localhost:3000/,0,0,1
+1744478152789,587,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-353,text,false,,2699,0,214,214,http://localhost:3000/,0,0,0
+1744478152775,602,Visit Website,200,OK,Thread Group 1-338,text,true,,2561,149,214,214,http://localhost:3000/,602,0,0
+1744478152776,602,Visit Website,200,OK,Thread Group 1-341,text,true,,2561,149,214,214,http://localhost:3000/,602,0,0
+1744478152777,603,Visit Website,200,OK,Thread Group 1-342,text,true,,2561,149,214,214,http://localhost:3000/,603,0,0
+1744478152617,763,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-70,text,false,Test failed: code expected to contain /200/,2699,0,214,214,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152778,603,Visit Website,200,OK,Thread Group 1-343,text,true,,2561,149,214,214,http://localhost:3000/,603,0,1
+1744478152824,558,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-386,text,false,,2699,0,212,212,http://localhost:3000/,0,0,1
+1744478152783,605,Visit Website,200,OK,Thread Group 1-346,text,true,,2561,149,211,211,http://localhost:3000/,605,0,1
+1744478153061,329,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-221,text,false,Test failed: code expected to contain /200/,2699,0,211,211,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152785,605,Visit Website,200,OK,Thread Group 1-350,text,true,,2561,149,211,211,http://localhost:3000/,605,0,0
+1744478152788,604,Visit Website,200,OK,Thread Group 1-352,text,true,,2561,149,210,210,http://localhost:3000/,604,0,1
+1744478152790,603,Visit Website,200,OK,Thread Group 1-354,text,true,,2561,149,210,210,http://localhost:3000/,603,0,0
+1744478152791,602,Visit Website,200,OK,Thread Group 1-356,text,true,,2561,149,210,210,http://localhost:3000/,602,0,0
+1744478152800,595,Visit Website,200,OK,Thread Group 1-364,text,true,,2561,149,210,210,http://localhost:3000/,595,0,1
+1744478152800,596,Visit Website,200,OK,Thread Group 1-362,text,true,,2561,149,210,210,http://localhost:3000/,596,0,1
+1744478152847,550,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-408,text,false,,2699,0,209,209,http://localhost:3000/,0,0,0
+1744478153112,285,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-668,text,false,,2699,0,209,209,http://localhost:3000/,0,0,1
+1744478152805,593,Visit Website,200,OK,Thread Group 1-369,text,true,,2561,149,209,209,http://localhost:3000/,593,0,1
+1744478153060,344,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-618,text,false,,2699,0,207,207,http://localhost:3000/,0,0,1
+1744478153021,384,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-563,text,false,,2699,0,207,207,http://localhost:3000/,0,0,1
+1744478152876,529,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-161,text,false,Test failed: code expected to contain /200/,2699,0,207,207,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153071,334,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-232,text,false,Test failed: code expected to contain /200/,2699,0,207,207,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153092,323,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-648,text,false,,2699,0,203,203,http://localhost:3000/,0,0,0
+1744478152772,647,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-118,text,false,Test failed: code expected to contain /200/,2699,0,203,203,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153090,336,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-643,text,false,,2699,0,202,202,http://localhost:3000/,0,0,1
+1744478152971,459,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-179,text,false,Test failed: code expected to contain /200/,2699,0,201,201,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152523,907,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-32,text,false,Test failed: code expected to contain /200/,2699,0,201,201,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152711,721,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-110,text,false,Test failed: code expected to contain /200/,2699,0,199,199,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152808,627,Visit Website,200,OK,Thread Group 1-371,text,true,,2561,149,198,198,http://localhost:3000/,627,0,1
+1744478152811,627,Visit Website,200,OK,Thread Group 1-375,text,true,,2561,149,198,198,http://localhost:3000/,627,0,1
+1744478152816,622,Visit Website,200,OK,Thread Group 1-380,text,true,,2561,149,198,198,http://localhost:3000/,622,0,1
+1744478152778,661,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-123,text,false,Test failed: code expected to contain /200/,2699,0,198,198,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153142,297,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-272,text,false,Test failed: code expected to contain /200/,2699,0,198,198,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152602,837,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-55,text,false,Test failed: code expected to contain /200/,2699,0,198,198,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152817,622,Visit Website,200,OK,Thread Group 1-379,text,true,,2561,149,198,198,http://localhost:3000/,622,0,1
+1744478152821,619,Visit Website,200,OK,Thread Group 1-384,text,true,,2561,149,198,198,http://localhost:3000/,619,0,1
+1744478152832,608,Visit Website,200,OK,Thread Group 1-396,text,true,,2561,149,198,198,http://localhost:3000/,608,0,1
+1744478152833,608,Visit Website,200,OK,Thread Group 1-397,text,true,,2561,149,198,198,http://localhost:3000/,608,0,1
+1744478152837,605,Visit Website,200,OK,Thread Group 1-400,text,true,,2561,149,198,198,http://localhost:3000/,605,0,1
+1744478152780,664,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-124,text,false,Test failed: code expected to contain /200/,2699,0,196,196,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153073,371,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-239,text,false,Test failed: code expected to contain /200/,2699,0,196,196,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152979,473,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-188,text,false,Test failed: code expected to contain /200/,2699,0,192,192,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153075,388,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-632,text,false,,2699,0,191,191,http://localhost:3000/,0,0,0
+1744478152514,951,Login,200,OK,Thread Group 1-22,text,true,,698,243,191,191,http://localhost:3000/api/v1/auth/login,951,0,0
+1744478152513,954,Login,200,OK,Thread Group 1-23,text,true,,698,243,191,191,http://localhost:3000/api/v1/auth/login,954,0,0
+1744478152784,687,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-129,text,false,Test failed: code expected to contain /200/,2699,0,190,190,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153124,347,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-242,text,false,Test failed: code expected to contain /200/,2699,0,190,190,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153140,331,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-271,text,false,Test failed: code expected to contain /200/,2699,0,190,190,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152706,767,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-103,text,false,Test failed: code expected to contain /200/,2699,0,186,186,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153059,418,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-624,text,false,,2699,0,185,185,http://localhost:3000/,0,0,1
+1744478153233,253,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-279,text,false,Test failed: code expected to contain /200/,2699,0,183,183,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153045,443,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-596,text,false,,2699,0,182,182,http://localhost:3000/,0,0,0
+1744478152840,648,Visit Website,200,OK,Thread Group 1-402,text,true,,2561,149,182,182,http://localhost:3000/,648,0,1
+1744478152794,695,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-139,text,false,Test failed: code expected to contain /200/,2699,0,181,181,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152847,646,Visit Website,200,OK,Thread Group 1-412,text,true,,2561,149,181,181,http://localhost:3000/,646,0,0
+1744478153138,358,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-265,text,false,Test failed: code expected to contain /200/,2699,0,181,181,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153016,480,Visit Website,200,OK,Thread Group 1-579,text,true,,2561,149,181,181,http://localhost:3000/,480,0,2
+1744478153024,474,Visit Website,200,OK,Thread Group 1-574,text,true,,2561,149,181,181,http://localhost:3000/,474,0,0
+1744478153026,477,Visit Website,200,OK,Thread Group 1-580,text,true,,2561,149,180,180,http://localhost:3000/,477,0,0
+1744478152523,981,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-30,text,false,Test failed: code expected to contain /200/,2699,0,180,180,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153028,478,Visit Website,200,OK,Thread Group 1-592,text,true,,2561,149,180,180,http://localhost:3000/,478,0,0
+1744478153126,381,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-246,text,false,Test failed: code expected to contain /200/,2699,0,180,180,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153031,477,Visit Website,200,OK,Thread Group 1-589,text,true,,2561,149,180,180,http://localhost:3000/,477,0,1
+1744478153035,474,Visit Website,200,OK,Thread Group 1-584,text,true,,2561,149,180,180,http://localhost:3000/,474,0,1
+1744478153310,199,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-314,text,false,Test failed: code expected to contain /200/,2699,0,179,179,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153035,475,Visit Website,200,OK,Thread Group 1-588,text,true,,2561,149,179,179,http://localhost:3000/,475,0,1
+1744478153037,474,Visit Website,200,OK,Thread Group 1-594,text,true,,2561,149,179,179,http://localhost:3000/,474,0,0
+1744478153040,472,Visit Website,200,OK,Thread Group 1-597,text,true,,2561,149,179,179,http://localhost:3000/,472,0,0
+1744478153041,472,Visit Website,200,OK,Thread Group 1-587,text,true,,2561,149,179,179,http://localhost:3000/,472,0,1
+1744478153045,469,Visit Website,200,OK,Thread Group 1-595,text,true,,2561,149,179,179,http://localhost:3000/,469,0,0
+1744478152795,732,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-140,text,false,Test failed: code expected to contain /200/,2699,0,177,177,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152792,743,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-137,text,false,Test failed: code expected to contain /200/,2699,0,176,176,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153229,306,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-277,text,false,Test failed: code expected to contain /200/,2699,0,176,176,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152517,1022,Login,200,OK,Thread Group 1-24,text,true,,698,243,175,175,http://localhost:3000/api/v1/auth/login,1021,0,0
+1744478153073,466,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-637,text,false,,2699,0,175,175,http://localhost:3000/,0,0,0
+1744478153247,292,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-300,text,false,Test failed: code expected to contain /200/,2699,0,174,174,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153239,300,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-286,text,false,Test failed: code expected to contain /200/,2699,0,174,174,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153058,487,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-599,text,false,,2699,0,171,171,http://localhost:3000/,0,0,1
+1744478153115,430,Visit Website,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-669,text,false,,2699,0,170,170,http://localhost:3000/,0,0,1
+1744478153309,238,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-309,text,false,Test failed: code expected to contain /200/,2699,0,168,168,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153141,415,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-273,text,false,Test failed: code expected to contain /200/,2699,0,167,167,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153002,554,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-208,text,false,Test failed: code expected to contain /200/,2699,0,167,167,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153056,500,Visit Website,200,OK,Thread Group 1-612,text,true,,2561,149,166,166,http://localhost:3000/,500,0,1
+1744478153523,34,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-595,text,false,Test failed: code expected to contain /200/,2699,0,165,165,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152797,760,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-141,text,false,Test failed: code expected to contain /200/,2699,0,165,165,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153058,499,Visit Website,200,OK,Thread Group 1-609,text,true,,2561,149,165,165,http://localhost:3000/,499,0,0
+1744478152870,688,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-155,text,false,Test failed: code expected to contain /200/,2699,0,164,164,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153058,501,Visit Website,200,OK,Thread Group 1-615,text,true,,2561,149,162,162,http://localhost:3000/,501,0,1
+1744478153059,501,Visit Website,200,OK,Thread Group 1-600,text,true,,2561,149,161,161,http://localhost:3000/,501,0,1
+1744478153063,498,Visit Website,200,OK,Thread Group 1-617,text,true,,2561,149,161,161,http://localhost:3000/,498,0,0
+1744478152708,853,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-107,text,false,Test failed: code expected to contain /200/,2699,0,161,161,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153069,493,Visit Website,200,OK,Thread Group 1-626,text,true,,2561,149,161,161,http://localhost:3000/,493,0,1
+1744478152605,957,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-59,text,false,Test failed: code expected to contain /200/,2699,0,161,161,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153075,488,Visit Website,200,OK,Thread Group 1-631,text,true,,2561,149,161,161,http://localhost:3000/,488,0,0
+1744478153083,481,Visit Website,200,OK,Thread Group 1-640,text,true,,2561,149,160,160,http://localhost:3000/,481,0,2
+1744478153090,475,Visit Website,200,OK,Thread Group 1-646,text,true,,2561,149,160,160,http://localhost:3000/,475,0,1
+1744478153090,477,Visit Website,200,OK,Thread Group 1-642,text,true,,2561,149,160,160,http://localhost:3000/,477,0,1
+1744478152997,570,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-204,text,false,Test failed: code expected to contain /200/,2699,0,160,160,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153003,571,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-209,text,false,Test failed: code expected to contain /200/,2699,0,159,159,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153125,453,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-245,text,false,Test failed: code expected to contain /200/,2699,0,158,158,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153231,350,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-278,text,false,Test failed: code expected to contain /200/,2699,0,157,157,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153139,442,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-269,text,false,Test failed: code expected to contain /200/,2699,0,157,157,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153127,462,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-250,text,false,Test failed: code expected to contain /200/,2699,0,155,155,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153063,528,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-225,text,false,Test failed: code expected to contain /200/,2699,0,154,154,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153562,34,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-626,text,false,Test failed: code expected to contain /200/,2699,0,152,152,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152525,1072,Login,200,OK,Thread Group 1-33,text,true,,698,243,152,152,http://localhost:3000/api/v1/auth/login,1072,0,0
+1744478152531,1067,Login,200,OK,Thread Group 1-39,text,true,,698,243,152,152,http://localhost:3000/api/v1/auth/login,1067,0,0
+1744478153100,499,Visit Website,200,OK,Thread Group 1-653,text,true,,2561,149,150,150,http://localhost:3000/,499,0,0
+1744478152701,899,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-96,text,false,Test failed: code expected to contain /200/,2699,0,150,150,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152713,888,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-114,text,false,Test failed: code expected to contain /200/,2699,0,148,148,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153074,528,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-241,text,false,Test failed: code expected to contain /200/,2699,0,148,148,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153100,502,Visit Website,200,OK,Thread Group 1-657,text,true,,2561,149,148,148,http://localhost:3000/,502,0,1
+1744478153441,161,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-396,text,false,Test failed: code expected to contain /200/,2699,0,147,147,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153104,499,Visit Website,200,OK,Thread Group 1-658,text,true,,2561,149,146,146,http://localhost:3000/,499,0,1
+1744478153105,499,Visit Website,200,OK,Thread Group 1-664,text,true,,2561,149,146,146,http://localhost:3000/,499,0,1
+1744478153106,499,Visit Website,200,OK,Thread Group 1-663,text,true,,2561,149,145,145,http://localhost:3000/,499,0,0
+1744478153107,498,Visit Website,200,OK,Thread Group 1-670,text,true,,2561,149,145,145,http://localhost:3000/,498,0,0
+1744478153567,39,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-642,text,false,Test failed: code expected to contain /200/,2699,0,145,145,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153111,495,Visit Website,200,OK,Thread Group 1-667,text,true,,2561,149,145,145,http://localhost:3000/,495,0,1
+1744478153390,217,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-350,text,false,Test failed: code expected to contain /200/,2699,0,145,145,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153523,84,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-594,text,false,Test failed: code expected to contain /200/,2699,0,145,145,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153118,489,Visit Website,200,OK,Thread Group 1-682,text,true,,2561,149,144,144,http://localhost:3000/,489,0,1
+1744478153124,484,Visit Website,200,OK,Thread Group 1-679,text,true,,2561,149,144,144,http://localhost:3000/,484,0,1
+1744478153127,482,Visit Website,200,OK,Thread Group 1-683,text,true,,2561,149,144,144,http://localhost:3000/,482,0,1
+1744478153128,481,Visit Website,200,OK,Thread Group 1-684,text,true,,2561,149,144,144,http://localhost:3000/,481,0,0
+1744478152873,737,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-158,text,false,Test failed: code expected to contain /200/,2699,0,142,142,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153129,481,Visit Website,200,OK,Thread Group 1-685,text,true,,2561,149,142,142,http://localhost:3000/,481,0,0
+1744478153135,476,Visit Website,200,OK,Thread Group 1-688,text,true,,2561,149,142,142,http://localhost:3000/,476,0,1
+1744478153136,476,Visit Website,200,OK,Thread Group 1-693,text,true,,2561,149,141,141,http://localhost:3000/,476,0,1
+1744478153557,55,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-612,text,false,Test failed: code expected to contain /200/,2699,0,141,141,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153142,470,Visit Website,200,OK,Thread Group 1-699,text,true,,2561,149,141,141,http://localhost:3000/,470,0,1
+1744478152982,639,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-190,text,false,Test failed: code expected to contain /200/,2699,0,141,141,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153609,15,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-684,text,false,Test failed: code expected to contain /200/,2699,0,140,140,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153497,127,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-579,text,false,Test failed: code expected to contain /200/,2699,0,140,140,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153311,313,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-315,text,false,Test failed: code expected to contain /200/,2699,0,140,140,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152693,932,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-87,text,false,Test failed: code expected to contain /200/,2699,0,140,140,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153313,312,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-317,text,false,Test failed: code expected to contain /200/,2699,0,140,140,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153395,232,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-364,text,false,Test failed: code expected to contain /200/,2699,0,136,136,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153063,564,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-224,text,false,Test failed: code expected to contain /200/,2699,0,136,136,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153607,30,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-682,text,false,Test failed: code expected to contain /200/,2699,0,132,132,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152799,843,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-144,text,false,Test failed: code expected to contain /200/,2699,0,132,132,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153489,154,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-402,text,false,Test failed: code expected to contain /200/,2699,0,131,131,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153314,329,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-320,text,false,Test failed: code expected to contain /200/,2699,0,130,130,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153052,594,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-212,text,false,Test failed: code expected to contain /200/,2699,0,130,130,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152791,855,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-135,text,false,Test failed: code expected to contain /200/,2699,0,130,130,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153441,217,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-397,text,false,Test failed: code expected to contain /200/,2699,0,126,126,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153071,588,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-235,text,false,Test failed: code expected to contain /200/,2699,0,126,126,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152852,815,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-148,text,false,Test failed: code expected to contain /200/,2699,0,125,125,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153128,542,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-252,text,false,Test failed: code expected to contain /200/,2699,0,123,123,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152540,1131,Login,200,OK,Thread Group 1-47,text,true,,698,243,123,123,http://localhost:3000/api/v1/auth/login,1131,0,0
+1744478153377,299,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-338,text,false,Test failed: code expected to contain /200/,2699,0,121,121,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152900,776,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-175,text,false,Test failed: code expected to contain /200/,2699,0,121,121,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153125,553,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-243,text,false,Test failed: code expected to contain /200/,2699,0,121,121,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153440,239,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-384,text,false,Test failed: code expected to contain /200/,2699,0,121,121,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153602,77,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-657,text,false,Test failed: code expected to contain /200/,2699,0,121,121,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152626,1053,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-80,text,false,Test failed: code expected to contain /200/,2699,0,121,121,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152881,798,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-165,text,false,Test failed: code expected to contain /200/,2699,0,121,121,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153603,76,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-658,text,false,Test failed: code expected to contain /200/,2699,0,120,120,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152998,683,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-206,text,false,Test failed: code expected to contain /200/,2699,0,115,115,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153523,164,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-592,text,false,Test failed: code expected to contain /200/,2699,0,113,113,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152882,810,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-166,text,false,Test failed: code expected to contain /200/,2699,0,112,112,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153611,81,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-688,text,false,Test failed: code expected to contain /200/,2699,0,112,112,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152625,1074,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-79,text,false,Test failed: code expected to contain /200/,2699,0,109,109,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153394,305,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-356,text,false,Test failed: code expected to contain /200/,2699,0,109,109,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152600,1100,Login,200,OK,Thread Group 1-57,text,true,,698,243,109,109,http://localhost:3000/api/v1/auth/login,1100,0,0
+1744478153523,177,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-588,text,false,Test failed: code expected to contain /200/,2699,0,108,108,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153326,381,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-333,text,false,Test failed: code expected to contain /200/,2699,0,106,106,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153565,143,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-646,text,false,Test failed: code expected to contain /200/,2699,0,105,105,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153558,157,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-609,text,false,Test failed: code expected to contain /200/,2699,0,103,103,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153319,397,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-322,text,false,Test failed: code expected to contain /200/,2699,0,103,103,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152878,840,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-162,text,false,Test failed: code expected to contain /200/,2699,0,101,101,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152996,726,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-203,text,false,Test failed: code expected to contain /200/,2699,0,101,101,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153605,123,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-670,text,false,Test failed: code expected to contain /200/,2699,0,99,99,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152980,753,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-189,text,false,Test failed: code expected to contain /200/,2699,0,98,98,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153324,414,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-324,text,false,Test failed: code expected to contain /200/,2699,0,98,98,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152690,1048,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-84,text,false,Test failed: code expected to contain /200/,2699,0,98,98,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153499,243,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-574,text,false,Test failed: code expected to contain /200/,2699,0,96,96,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152619,1125,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-73,text,false,Test failed: code expected to contain /200/,2699,0,95,95,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152615,1129,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-69,text,false,Test failed: code expected to contain /200/,2699,0,95,95,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153312,432,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-316,text,false,Test failed: code expected to contain /200/,2699,0,95,95,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153246,500,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-298,text,false,Test failed: code expected to contain /200/,2699,0,93,93,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153600,159,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-653,text,false,Test failed: code expected to contain /200/,2699,0,90,90,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152599,1163,Login,200,OK,Thread Group 1-58,text,true,,698,243,90,90,http://localhost:3000/api/v1/auth/login,1163,0,0
+1744478152786,980,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-132,text,false,Test failed: code expected to contain /200/,2699,0,88,88,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152707,1060,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-104,text,false,Test failed: code expected to contain /200/,2699,0,88,88,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153135,632,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-261,text,false,Test failed: code expected to contain /200/,2699,0,88,88,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152975,792,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-184,text,false,Test failed: code expected to contain /200/,2699,0,88,88,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152604,1166,Login,200,OK,Thread Group 1-56,text,true,,698,243,85,85,http://localhost:3000/api/v1/auth/login,1166,0,0
+1744478153563,209,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-631,text,false,Test failed: code expected to contain /200/,2699,0,85,85,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152771,1004,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-115,text,false,Test failed: code expected to contain /200/,2699,0,83,83,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153392,386,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-352,text,false,Test failed: code expected to contain /200/,2699,0,81,81,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153241,543,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-293,text,false,Test failed: code expected to contain /200/,2699,0,81,81,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152789,996,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-133,text,false,Test failed: code expected to contain /200/,2699,0,81,81,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153065,724,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-227,text,false,Test failed: code expected to contain /200/,2699,0,79,79,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152779,1014,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-125,text,false,Test failed: code expected to contain /200/,2699,0,78,78,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153606,187,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-667,text,false,Test failed: code expected to contain /200/,2699,0,78,78,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152610,1188,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-64,text,false,Test failed: code expected to contain /200/,2699,0,76,76,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152989,809,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-193,text,false,Test failed: code expected to contain /200/,2699,0,76,76,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152994,815,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-197,text,false,Test failed: code expected to contain /200/,2699,0,73,73,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153393,418,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-354,text,false,Test failed: code expected to contain /200/,2699,0,72,72,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153228,587,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-275,text,false,Test failed: code expected to contain /200/,2699,0,71,71,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153327,490,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-335,text,false,Test failed: code expected to contain /200/,2699,0,71,71,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153494,329,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-412,text,false,Test failed: code expected to contain /200/,2699,0,70,70,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152685,1138,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-83,text,false,Test failed: code expected to contain /200/,2699,0,70,70,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153523,302,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-597,text,false,Test failed: code expected to contain /200/,2699,0,69,69,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152868,957,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-153,text,false,Test failed: code expected to contain /200/,2699,0,69,69,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153306,519,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-306,text,false,Test failed: code expected to contain /200/,2699,0,69,69,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152606,1220,Login,200,OK,Thread Group 1-60,text,true,,698,243,68,68,http://localhost:3000/api/v1/auth/login,1219,0,0
+1744478152611,1216,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-66,text,false,Test failed: code expected to contain /200/,2699,0,67,67,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152993,841,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-196,text,false,Test failed: code expected to contain /200/,2699,0,62,62,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153134,700,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-258,text,false,Test failed: code expected to contain /200/,2699,0,62,62,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153605,229,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-663,text,false,Test failed: code expected to contain /200/,2699,0,62,62,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153561,274,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-617,text,false,Test failed: code expected to contain /200/,2699,0,62,62,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153435,400,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-371,text,false,Test failed: code expected to contain /200/,2699,0,62,62,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152695,1140,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-89,text,false,Test failed: code expected to contain /200/,2699,0,62,62,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152701,1135,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-95,text,false,Test failed: code expected to contain /200/,2699,0,57,57,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152902,934,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-177,text,false,Test failed: code expected to contain /200/,2699,0,57,57,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152856,982,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-149,text,false,Test failed: code expected to contain /200/,2699,0,56,56,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153438,400,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-375,text,false,Test failed: code expected to contain /200/,2699,0,56,56,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153058,780,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-215,text,false,Test failed: code expected to contain /200/,2699,0,56,56,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152879,965,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-164,text,false,Test failed: code expected to contain /200/,2699,0,53,53,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153503,342,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-580,text,false,Test failed: code expected to contain /200/,2699,0,52,52,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153240,607,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-289,text,false,Test failed: code expected to contain /200/,2699,0,50,50,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152978,877,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-186,text,false,Test failed: code expected to contain /200/,2699,0,48,48,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153523,333,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-587,text,false,Test failed: code expected to contain /200/,2699,0,48,48,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153442,415,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-400,text,false,Test failed: code expected to contain /200/,2699,0,47,47,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153381,484,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-343,text,false,Test failed: code expected to contain /200/,2699,0,45,45,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153439,428,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-380,text,false,Test failed: code expected to contain /200/,2699,0,45,45,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153609,259,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-683,text,false,Test failed: code expected to contain /200/,2699,0,45,45,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153380,492,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-342,text,false,Test failed: code expected to contain /200/,2699,0,43,43,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153069,806,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-229,text,false,Test failed: code expected to contain /200/,2699,0,42,42,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152872,1004,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-157,text,false,Test failed: code expected to contain /200/,2699,0,41,41,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153604,272,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-664,text,false,Test failed: code expected to contain /200/,2699,0,41,41,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153241,637,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-291,text,false,Test failed: code expected to contain /200/,2699,0,41,41,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152894,990,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-171,text,false,Test failed: code expected to contain /200/,2699,0,39,39,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153057,838,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-213,text,false,Test failed: code expected to contain /200/,2699,0,36,36,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153249,648,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-302,text,false,Test failed: code expected to contain /200/,2699,0,36,36,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153613,284,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-699,text,false,Test failed: code expected to contain /200/,2699,0,36,36,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153253,644,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-304,text,false,Test failed: code expected to contain /200/,2699,0,36,36,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153612,287,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-693,text,false,Test failed: code expected to contain /200/,2699,0,33,33,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153062,840,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-223,text,false,Test failed: code expected to contain /200/,2699,0,32,32,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153523,389,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-584,text,false,Test failed: code expected to contain /200/,2699,0,30,30,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153059,853,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-216,text,false,Test failed: code expected to contain /200/,2699,0,30,30,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152777,1142,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-122,text,false,Test failed: code expected to contain /200/,2699,0,28,28,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153068,859,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-228,text,false,Test failed: code expected to contain /200/,2699,0,28,28,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153323,604,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-326,text,false,Test failed: code expected to contain /200/,2699,0,28,28,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153439,488,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-379,text,false,Test failed: code expected to contain /200/,2699,0,28,28,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153379,549,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-341,text,false,Test failed: code expected to contain /200/,2699,0,28,28,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152972,956,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-183,text,false,Test failed: code expected to contain /200/,2699,0,28,28,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153307,629,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-310,text,false,Test failed: code expected to contain /200/,2699,0,23,23,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153398,544,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-369,text,false,Test failed: code expected to contain /200/,2699,0,22,22,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153564,378,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-640,text,false,Test failed: code expected to contain /200/,2699,0,22,22,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152849,1095,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-146,text,false,Test failed: code expected to contain /200/,2699,0,20,20,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153321,623,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-323,text,false,Test failed: code expected to contain /200/,2699,0,20,20,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152857,1094,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-151,text,false,Test failed: code expected to contain /200/,2699,0,18,18,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152793,1164,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-138,text,false,Test failed: code expected to contain /200/,2699,0,16,16,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152788,1174,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-131,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153560,402,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-600,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153244,718,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-296,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153608,354,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-679,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153066,896,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-226,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153610,352,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-685,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153388,574,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-346,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153559,403,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-615,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152703,1259,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-99,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152798,1164,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-143,text,false,Test failed: code expected to contain /200/,2699,0,15,15,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152861,1102,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-152,text,false,Test failed: code expected to contain /200/,2699,0,11,11,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478152874,1089,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-160,text,false,Test failed: code expected to contain /200/,2699,0,10,10,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153397,568,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-362,text,false,Test failed: code expected to contain /200/,2699,0,8,8,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153069,896,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-231,text,false,Test failed: code expected to contain /200/,2699,0,8,8,http://localhost:3000/api/v1/auth/login,0,0,0
+1744478153523,442,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-589,text,false,Test failed: code expected to contain /200/,2699,0,8,8,http://localhost:3000/api/v1/auth/login,0,0,0
